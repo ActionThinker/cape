@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on CAPE|全球青年实践网络</title>
-    <link>https://actionthinker.github.io/cape/tags/news/</link>
+    <link>http://hicape.com/tags/news/</link>
     <description>Recent content in News on CAPE|全球青年实践网络</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Mar 2013 10:33:58 +0000</lastBuildDate>
     
-	<atom:link href="https://actionthinker.github.io/cape/tags/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hicape.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vizio Thin &amp; Light: Something New and Edgy</title>
-      <link>https://actionthinker.github.io/cape/2013/03/vizio-thin-light-something-new-and-edgy/</link>
+      <link>http://hicape.com/2013/03/vizio-thin-light-something-new-and-edgy/</link>
       <pubDate>Fri, 15 Mar 2013 10:33:58 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/2013/03/vizio-thin-light-something-new-and-edgy/</guid>
+      <guid>http://hicape.com/2013/03/vizio-thin-light-something-new-and-edgy/</guid>
       <description>Last year was very eventful in the notebook world. Beyond the UX upheaval brought on by Windows 8 and the blurring of the line between notebooks and tablets, we’ve seen two high-profile entrants to the realm of notebook PC hardware, Razer and Vizio. Both are well established tech companies that have experience shipping high-quality products in their respective gaming and HDTV market areas. This type of thing doesn’t happen very often, and while it’s not on the level of Microsoft jumping into the PC hardware ring, it’s an interesting trend to note.</description>
     </item>
     

@@ -2,354 +2,354 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on CAPE|全球青年实践网络</title>
-    <link>https://actionthinker.github.io/cape/categories/</link>
+    <link>http://hicape.com/categories/</link>
     <description>Recent content in Categories on CAPE|全球青年实践网络</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Dec 2017 09:30:05 +0000</lastBuildDate>
     
-	<atom:link href="https://actionthinker.github.io/cape/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hicape.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Actionthinker</title>
-      <link>https://actionthinker.github.io/cape/categories/actionthinker/</link>
+      <link>http://hicape.com/categories/actionthinker/</link>
       <pubDate>Fri, 01 Dec 2017 09:30:05 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/actionthinker/</guid>
+      <guid>http://hicape.com/categories/actionthinker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cape Events</title>
-      <link>https://actionthinker.github.io/cape/categories/cape-events/</link>
+      <link>http://hicape.com/categories/cape-events/</link>
       <pubDate>Wed, 16 Jan 2013 13:20:41 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/cape-events/</guid>
+      <guid>http://hicape.com/categories/cape-events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cape Meetup</title>
-      <link>https://actionthinker.github.io/cape/categories/cape-meetup/</link>
+      <link>http://hicape.com/categories/cape-meetup/</link>
       <pubDate>Mon, 16 Feb 2015 16:20:51 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/cape-meetup/</guid>
+      <guid>http://hicape.com/categories/cape-meetup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cape Talk</title>
-      <link>https://actionthinker.github.io/cape/categories/cape-talk/</link>
+      <link>http://hicape.com/categories/cape-talk/</link>
       <pubDate>Mon, 26 Mar 2018 04:18:31 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/cape-talk/</guid>
+      <guid>http://hicape.com/categories/cape-talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cape专栏</title>
-      <link>https://actionthinker.github.io/cape/categories/cape%E4%B8%93%E6%A0%8F/</link>
+      <link>http://hicape.com/categories/cape%E4%B8%93%E6%A0%8F/</link>
       <pubDate>Wed, 06 Jun 2018 08:24:20 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/cape%E4%B8%93%E6%A0%8F/</guid>
+      <guid>http://hicape.com/categories/cape%E4%B8%93%E6%A0%8F/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cape专题</title>
-      <link>https://actionthinker.github.io/cape/categories/cape%E4%B8%93%E9%A2%98/</link>
+      <link>http://hicape.com/categories/cape%E4%B8%93%E9%A2%98/</link>
       <pubDate>Sat, 23 Aug 2014 16:09:20 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/cape%E4%B8%93%E9%A2%98/</guid>
+      <guid>http://hicape.com/categories/cape%E4%B8%93%E9%A2%98/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cape周刊</title>
-      <link>https://actionthinker.github.io/cape/categories/cape%E5%91%A8%E5%88%8A/</link>
+      <link>http://hicape.com/categories/cape%E5%91%A8%E5%88%8A/</link>
       <pubDate>Mon, 02 Jul 2012 05:49:27 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/cape%E5%91%A8%E5%88%8A/</guid>
+      <guid>http://hicape.com/categories/cape%E5%91%A8%E5%88%8A/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cape新闻与公告</title>
-      <link>https://actionthinker.github.io/cape/categories/cape%E6%96%B0%E9%97%BB%E4%B8%8E%E5%85%AC%E5%91%8A/</link>
+      <link>http://hicape.com/categories/cape%E6%96%B0%E9%97%BB%E4%B8%8E%E5%85%AC%E5%91%8A/</link>
       <pubDate>Sat, 13 Jun 2015 00:00:57 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/cape%E6%96%B0%E9%97%BB%E4%B8%8E%E5%85%AC%E5%91%8A/</guid>
+      <guid>http://hicape.com/categories/cape%E6%96%B0%E9%97%BB%E4%B8%8E%E5%85%AC%E5%91%8A/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cape视角</title>
-      <link>https://actionthinker.github.io/cape/categories/cape%E8%A7%86%E8%A7%92/</link>
+      <link>http://hicape.com/categories/cape%E8%A7%86%E8%A7%92/</link>
       <pubDate>Sat, 13 Jun 2015 00:00:57 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/cape%E8%A7%86%E8%A7%92/</guid>
+      <guid>http://hicape.com/categories/cape%E8%A7%86%E8%A7%92/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cape随笔</title>
-      <link>https://actionthinker.github.io/cape/categories/cape%E9%9A%8F%E7%AC%94/</link>
+      <link>http://hicape.com/categories/cape%E9%9A%8F%E7%AC%94/</link>
       <pubDate>Sun, 20 Sep 2015 06:03:49 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/cape%E9%9A%8F%E7%AC%94/</guid>
+      <guid>http://hicape.com/categories/cape%E9%9A%8F%E7%AC%94/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ding</title>
-      <link>https://actionthinker.github.io/cape/categories/ding/</link>
+      <link>http://hicape.com/categories/ding/</link>
       <pubDate>Wed, 06 Jun 2018 08:24:20 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/ding/</guid>
+      <guid>http://hicape.com/categories/ding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
-      <link>https://actionthinker.github.io/cape/categories/english/</link>
+      <link>http://hicape.com/categories/english/</link>
       <pubDate>Sat, 05 Jul 2014 16:05:57 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/english/</guid>
+      <guid>http://hicape.com/categories/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Founder说</title>
-      <link>https://actionthinker.github.io/cape/categories/founder%E8%AF%B4/</link>
+      <link>http://hicape.com/categories/founder%E8%AF%B4/</link>
       <pubDate>Wed, 30 Apr 2014 13:25:13 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/founder%E8%AF%B4/</guid>
+      <guid>http://hicape.com/categories/founder%E8%AF%B4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Meetup</title>
-      <link>https://actionthinker.github.io/cape/categories/how-to-meetup/</link>
+      <link>http://hicape.com/categories/how-to-meetup/</link>
       <pubDate>Sat, 09 Aug 2014 09:57:20 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/how-to-meetup/</guid>
+      <guid>http://hicape.com/categories/how-to-meetup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>中国走出去</title>
-      <link>https://actionthinker.github.io/cape/categories/%E4%B8%AD%E5%9B%BD%E8%B5%B0%E5%87%BA%E5%8E%BB/</link>
+      <link>http://hicape.com/categories/%E4%B8%AD%E5%9B%BD%E8%B5%B0%E5%87%BA%E5%8E%BB/</link>
       <pubDate>Wed, 14 Nov 2018 03:31:18 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E4%B8%AD%E5%9B%BD%E8%B5%B0%E5%87%BA%E5%8E%BB/</guid>
+      <guid>http://hicape.com/categories/%E4%B8%AD%E5%9B%BD%E8%B5%B0%E5%87%BA%E5%8E%BB/</guid>
       <description></description>
     </item>
     
     <item>
       <title>习婉钰</title>
-      <link>https://actionthinker.github.io/cape/categories/%E4%B9%A0%E5%A9%89%E9%92%B0/</link>
+      <link>http://hicape.com/categories/%E4%B9%A0%E5%A9%89%E9%92%B0/</link>
       <pubDate>Mon, 12 Jan 2015 13:05:25 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E4%B9%A0%E5%A9%89%E9%92%B0/</guid>
+      <guid>http://hicape.com/categories/%E4%B9%A0%E5%A9%89%E9%92%B0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>创意空间</title>
-      <link>https://actionthinker.github.io/cape/categories/%E5%88%9B%E6%84%8F%E7%A9%BA%E9%97%B4/</link>
+      <link>http://hicape.com/categories/%E5%88%9B%E6%84%8F%E7%A9%BA%E9%97%B4/</link>
       <pubDate>Sat, 23 Aug 2014 16:09:20 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E5%88%9B%E6%84%8F%E7%A9%BA%E9%97%B4/</guid>
+      <guid>http://hicape.com/categories/%E5%88%9B%E6%84%8F%E7%A9%BA%E9%97%B4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>吴孟霖</title>
-      <link>https://actionthinker.github.io/cape/categories/%E5%90%B4%E5%AD%9F%E9%9C%96/</link>
+      <link>http://hicape.com/categories/%E5%90%B4%E5%AD%9F%E9%9C%96/</link>
       <pubDate>Tue, 19 Apr 2016 06:49:14 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E5%90%B4%E5%AD%9F%E9%9C%96/</guid>
+      <guid>http://hicape.com/categories/%E5%90%B4%E5%AD%9F%E9%9C%96/</guid>
       <description></description>
     </item>
     
     <item>
       <title>周舒</title>
-      <link>https://actionthinker.github.io/cape/categories/%E5%91%A8%E8%88%92/</link>
+      <link>http://hicape.com/categories/%E5%91%A8%E8%88%92/</link>
       <pubDate>Fri, 12 May 2017 06:14:23 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E5%91%A8%E8%88%92/</guid>
+      <guid>http://hicape.com/categories/%E5%91%A8%E8%88%92/</guid>
       <description></description>
     </item>
     
     <item>
       <title>庄巧祎</title>
-      <link>https://actionthinker.github.io/cape/categories/%E5%BA%84%E5%B7%A7%E7%A5%8E/</link>
+      <link>http://hicape.com/categories/%E5%BA%84%E5%B7%A7%E7%A5%8E/</link>
       <pubDate>Fri, 14 Sep 2018 07:19:46 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E5%BA%84%E5%B7%A7%E7%A5%8E/</guid>
+      <guid>http://hicape.com/categories/%E5%BA%84%E5%B7%A7%E7%A5%8E/</guid>
       <description></description>
     </item>
     
     <item>
       <title>征稿启示</title>
-      <link>https://actionthinker.github.io/cape/categories/%E5%BE%81%E7%A8%BF%E5%90%AF%E7%A4%BA/</link>
+      <link>http://hicape.com/categories/%E5%BE%81%E7%A8%BF%E5%90%AF%E7%A4%BA/</link>
       <pubDate>Tue, 03 Jun 2014 05:51:09 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E5%BE%81%E7%A8%BF%E5%90%AF%E7%A4%BA/</guid>
+      <guid>http://hicape.com/categories/%E5%BE%81%E7%A8%BF%E5%90%AF%E7%A4%BA/</guid>
       <description></description>
     </item>
     
     <item>
       <title>探访世界高校</title>
-      <link>https://actionthinker.github.io/cape/categories/%E6%8E%A2%E8%AE%BF%E4%B8%96%E7%95%8C%E9%AB%98%E6%A0%A1/</link>
+      <link>http://hicape.com/categories/%E6%8E%A2%E8%AE%BF%E4%B8%96%E7%95%8C%E9%AB%98%E6%A0%A1/</link>
       <pubDate>Tue, 19 Dec 2017 02:48:36 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E6%8E%A2%E8%AE%BF%E4%B8%96%E7%95%8C%E9%AB%98%E6%A0%A1/</guid>
+      <guid>http://hicape.com/categories/%E6%8E%A2%E8%AE%BF%E4%B8%96%E7%95%8C%E9%AB%98%E6%A0%A1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>支教</title>
-      <link>https://actionthinker.github.io/cape/categories/%E6%94%AF%E6%95%99/</link>
+      <link>http://hicape.com/categories/%E6%94%AF%E6%95%99/</link>
       <pubDate>Thu, 10 Oct 2013 13:45:56 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E6%94%AF%E6%95%99/</guid>
+      <guid>http://hicape.com/categories/%E6%94%AF%E6%95%99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>星星的孩子</title>
-      <link>https://actionthinker.github.io/cape/categories/%E6%98%9F%E6%98%9F%E7%9A%84%E5%AD%A9%E5%AD%90/</link>
+      <link>http://hicape.com/categories/%E6%98%9F%E6%98%9F%E7%9A%84%E5%AD%A9%E5%AD%90/</link>
       <pubDate>Sat, 26 Apr 2014 14:18:38 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E6%98%9F%E6%98%9F%E7%9A%84%E5%AD%A9%E5%AD%90/</guid>
+      <guid>http://hicape.com/categories/%E6%98%9F%E6%98%9F%E7%9A%84%E5%AD%A9%E5%AD%90/</guid>
       <description></description>
     </item>
     
     <item>
       <title>朱智</title>
-      <link>https://actionthinker.github.io/cape/categories/%E6%9C%B1%E6%99%BA/</link>
+      <link>http://hicape.com/categories/%E6%9C%B1%E6%99%BA/</link>
       <pubDate>Tue, 13 Aug 2013 16:50:58 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E6%9C%B1%E6%99%BA/</guid>
+      <guid>http://hicape.com/categories/%E6%9C%B1%E6%99%BA/</guid>
       <description></description>
     </item>
     
     <item>
       <title>海外行者分享</title>
-      <link>https://actionthinker.github.io/cape/categories/%E6%B5%B7%E5%A4%96%E8%A1%8C%E8%80%85%E5%88%86%E4%BA%AB/</link>
+      <link>http://hicape.com/categories/%E6%B5%B7%E5%A4%96%E8%A1%8C%E8%80%85%E5%88%86%E4%BA%AB/</link>
       <pubDate>Wed, 14 Nov 2018 03:31:18 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E6%B5%B7%E5%A4%96%E8%A1%8C%E8%80%85%E5%88%86%E4%BA%AB/</guid>
+      <guid>http://hicape.com/categories/%E6%B5%B7%E5%A4%96%E8%A1%8C%E8%80%85%E5%88%86%E4%BA%AB/</guid>
       <description></description>
     </item>
     
     <item>
       <title>潘文颖</title>
-      <link>https://actionthinker.github.io/cape/categories/%E6%BD%98%E6%96%87%E9%A2%96/</link>
+      <link>http://hicape.com/categories/%E6%BD%98%E6%96%87%E9%A2%96/</link>
       <pubDate>Wed, 13 Mar 2013 15:29:29 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E6%BD%98%E6%96%87%E9%A2%96/</guid>
+      <guid>http://hicape.com/categories/%E6%BD%98%E6%96%87%E9%A2%96/</guid>
       <description></description>
     </item>
     
     <item>
       <title>环保青年</title>
-      <link>https://actionthinker.github.io/cape/categories/%E7%8E%AF%E4%BF%9D%E9%9D%92%E5%B9%B4/</link>
+      <link>http://hicape.com/categories/%E7%8E%AF%E4%BF%9D%E9%9D%92%E5%B9%B4/</link>
       <pubDate>Sat, 14 Dec 2013 19:19:25 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E7%8E%AF%E4%BF%9D%E9%9D%92%E5%B9%B4/</guid>
+      <guid>http://hicape.com/categories/%E7%8E%AF%E4%BF%9D%E9%9D%92%E5%B9%B4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>环球社会创新观察</title>
-      <link>https://actionthinker.github.io/cape/categories/%E7%8E%AF%E7%90%83%E7%A4%BE%E4%BC%9A%E5%88%9B%E6%96%B0%E8%A7%82%E5%AF%9F/</link>
+      <link>http://hicape.com/categories/%E7%8E%AF%E7%90%83%E7%A4%BE%E4%BC%9A%E5%88%9B%E6%96%B0%E8%A7%82%E5%AF%9F/</link>
       <pubDate>Tue, 19 Apr 2016 06:49:14 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E7%8E%AF%E7%90%83%E7%A4%BE%E4%BC%9A%E5%88%9B%E6%96%B0%E8%A7%82%E5%AF%9F/</guid>
+      <guid>http://hicape.com/categories/%E7%8E%AF%E7%90%83%E7%A4%BE%E4%BC%9A%E5%88%9B%E6%96%B0%E8%A7%82%E5%AF%9F/</guid>
       <description></description>
     </item>
     
     <item>
       <title>编辑推荐</title>
-      <link>https://actionthinker.github.io/cape/categories/%E7%BC%96%E8%BE%91%E6%8E%A8%E8%8D%90/</link>
+      <link>http://hicape.com/categories/%E7%BC%96%E8%BE%91%E6%8E%A8%E8%8D%90/</link>
       <pubDate>Wed, 14 Nov 2018 03:31:18 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E7%BC%96%E8%BE%91%E6%8E%A8%E8%8D%90/</guid>
+      <guid>http://hicape.com/categories/%E7%BC%96%E8%BE%91%E6%8E%A8%E8%8D%90/</guid>
       <description></description>
     </item>
     
     <item>
       <title>茄而</title>
-      <link>https://actionthinker.github.io/cape/categories/%E8%8C%84%E8%80%8C/</link>
+      <link>http://hicape.com/categories/%E8%8C%84%E8%80%8C/</link>
       <pubDate>Mon, 28 Oct 2013 16:23:25 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E8%8C%84%E8%80%8C/</guid>
+      <guid>http://hicape.com/categories/%E8%8C%84%E8%80%8C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>董弈</title>
-      <link>https://actionthinker.github.io/cape/categories/%E8%91%A3%E5%BC%88/</link>
+      <link>http://hicape.com/categories/%E8%91%A3%E5%BC%88/</link>
       <pubDate>Wed, 12 Dec 2012 07:14:24 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E8%91%A3%E5%BC%88/</guid>
+      <guid>http://hicape.com/categories/%E8%91%A3%E5%BC%88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>蔡安澜</title>
-      <link>https://actionthinker.github.io/cape/categories/%E8%94%A1%E5%AE%89%E6%BE%9C/</link>
+      <link>http://hicape.com/categories/%E8%94%A1%E5%AE%89%E6%BE%9C/</link>
       <pubDate>Fri, 23 Nov 2012 13:55:27 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E8%94%A1%E5%AE%89%E6%BE%9C/</guid>
+      <guid>http://hicape.com/categories/%E8%94%A1%E5%AE%89%E6%BE%9C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>赵轩</title>
-      <link>https://actionthinker.github.io/cape/categories/%E8%B5%B5%E8%BD%A9/</link>
+      <link>http://hicape.com/categories/%E8%B5%B5%E8%BD%A9/</link>
       <pubDate>Fri, 02 Dec 2011 07:33:24 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E8%B5%B5%E8%BD%A9/</guid>
+      <guid>http://hicape.com/categories/%E8%B5%B5%E8%BD%A9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>返乡青年</title>
-      <link>https://actionthinker.github.io/cape/categories/%E8%BF%94%E4%B9%A1%E9%9D%92%E5%B9%B4/</link>
+      <link>http://hicape.com/categories/%E8%BF%94%E4%B9%A1%E9%9D%92%E5%B9%B4/</link>
       <pubDate>Sun, 02 Mar 2014 03:27:51 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E8%BF%94%E4%B9%A1%E9%9D%92%E5%B9%B4/</guid>
+      <guid>http://hicape.com/categories/%E8%BF%94%E4%B9%A1%E9%9D%92%E5%B9%B4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>郑清之</title>
-      <link>https://actionthinker.github.io/cape/categories/%E9%83%91%E6%B8%85%E4%B9%8B/</link>
+      <link>http://hicape.com/categories/%E9%83%91%E6%B8%85%E4%B9%8B/</link>
       <pubDate>Wed, 22 Nov 2017 10:44:40 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E9%83%91%E6%B8%85%E4%B9%8B/</guid>
+      <guid>http://hicape.com/categories/%E9%83%91%E6%B8%85%E4%B9%8B/</guid>
       <description></description>
     </item>
     
     <item>
       <title>间隔年</title>
-      <link>https://actionthinker.github.io/cape/categories/%E9%97%B4%E9%9A%94%E5%B9%B4/</link>
+      <link>http://hicape.com/categories/%E9%97%B4%E9%9A%94%E5%B9%B4/</link>
       <pubDate>Wed, 23 Oct 2013 09:21:04 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E9%97%B4%E9%9A%94%E5%B9%B4/</guid>
+      <guid>http://hicape.com/categories/%E9%97%B4%E9%9A%94%E5%B9%B4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>黄泓翔</title>
-      <link>https://actionthinker.github.io/cape/categories/%E9%BB%84%E6%B3%93%E7%BF%94/</link>
+      <link>http://hicape.com/categories/%E9%BB%84%E6%B3%93%E7%BF%94/</link>
       <pubDate>Fri, 30 May 2014 12:01:06 +0000</pubDate>
       
-      <guid>https://actionthinker.github.io/cape/categories/%E9%BB%84%E6%B3%93%E7%BF%94/</guid>
+      <guid>http://hicape.com/categories/%E9%BB%84%E6%B3%93%E7%BF%94/</guid>
       <description></description>
     </item>
     
