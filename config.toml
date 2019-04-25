@@ -1,3 +1,5 @@
-baseURL = "http://hicape.com/"
+baseURL = "http://www.hicape.com/"
 languageCode = "en-us"
 title = "CAPE|全球青年实践网络"
+publishdir = "docs"
+theme="maupassant-hugo"
