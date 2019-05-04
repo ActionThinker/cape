@@ -3,3 +3,43 @@ languageCode = "en-us"
 title = "CAPE|全球青年实践网络"
 publishdir = "docs"
 theme="maupassant-hugo"
+
+hasCJKLanguage = true
+
+summaryLength = 240
+
+[menu]
+
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 4
+
+
+[[params.ads]]
+  title = "CAPE"
+  url = "/"
+  img = "https://i.loli.net/2019/05/04/5ccd983b53213.jpeg"
+
+[[params.links]]
+  title = "手艺人赵鹏 "
+  name = "手艺人赵鹏"
+  url = "https://zhaopeng.me"
+
+
+[params.cc]
+    name = "知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议"
+    link = "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+
+[params.utteranc]
+    enable = true
+    repo = "ActionThinker/cape"    # 存储评论的Repo，格式为 owner/repo
+    issueTerm = "pathname"  #表示你选择以那种方式让github issue的评论和你的文章关联。
+    theme = "github-light" # 样式主题，有github-light和github-dark两种
