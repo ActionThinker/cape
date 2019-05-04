@@ -28,3 +28,5 @@ min_version = "0.30"
   name = "pagecho"
   homepage = "https://chopstack.com/"
   repo = "https://github.com/pagecho/maupassant"
+
+googleAnalytics = "UA-25339125-1"
