@@ -1,6 +1,6 @@
 ---
 title: 中美跨文化沟通之挑战与机遇
-author: 李莹莹
+author: CAPE
 type: post
 date: 2019-04-19T08:24:20+00:00
 excerpt: 我们知不知道” 是一回事，“我们怎么传播”又是另外一回事。
