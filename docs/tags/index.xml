@@ -6,10 +6,37 @@
     <description>Recent content in Tags on CAPE|全球青年实践网络</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Nov 2018 03:31:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 08:24:20 +0000</lastBuildDate>
     
 	<atom:link href="http://www.hicape.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>李莹莹</title>
+      <link>http://www.hicape.com/tags/%E6%9D%8E%E8%8E%B9%E8%8E%B9/</link>
+      <pubDate>Fri, 19 Apr 2019 08:24:20 +0000</pubDate>
+      
+      <guid>http://www.hicape.com/tags/%E6%9D%8E%E8%8E%B9%E8%8E%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>美国</title>
+      <link>http://www.hicape.com/tags/%E7%BE%8E%E5%9B%BD/</link>
+      <pubDate>Fri, 19 Apr 2019 08:24:20 +0000</pubDate>
+      
+      <guid>http://www.hicape.com/tags/%E7%BE%8E%E5%9B%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>跨文化沟通</title>
+      <link>http://www.hicape.com/tags/%E8%B7%A8%E6%96%87%E5%8C%96%E6%B2%9F%E9%80%9A/</link>
+      <pubDate>Fri, 19 Apr 2019 08:24:20 +0000</pubDate>
+      
+      <guid>http://www.hicape.com/tags/%E8%B7%A8%E6%96%87%E5%8C%96%E6%B2%9F%E9%80%9A/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>创业</title>
@@ -71,15 +98,6 @@
       <pubDate>Tue, 18 Sep 2018 08:55:43 +0000</pubDate>
       
       <guid>http://www.hicape.com/tags/%E6%88%B4%E4%B8%89%E6%89%8D/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>美国</title>
-      <link>http://www.hicape.com/tags/%E7%BE%8E%E5%9B%BD/</link>
-      <pubDate>Tue, 18 Sep 2018 08:55:43 +0000</pubDate>
-      
-      <guid>http://www.hicape.com/tags/%E7%BE%8E%E5%9B%BD/</guid>
       <description></description>
     </item>
     
@@ -215,15 +233,6 @@
       <pubDate>Fri, 01 Dec 2017 09:30:05 +0000</pubDate>
       
       <guid>http://www.hicape.com/tags/%E5%BE%B7%E5%9B%BD%E9%9D%92%E5%B9%B4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>跨文化沟通</title>
-      <link>http://www.hicape.com/tags/%E8%B7%A8%E6%96%87%E5%8C%96%E6%B2%9F%E9%80%9A/</link>
-      <pubDate>Fri, 01 Dec 2017 09:30:05 +0000</pubDate>
-      
-      <guid>http://www.hicape.com/tags/%E8%B7%A8%E6%96%87%E5%8C%96%E6%B2%9F%E9%80%9A/</guid>
       <description></description>
     </item>
     
@@ -584,15 +593,6 @@
       <pubDate>Sat, 29 Aug 2015 14:19:47 +0000</pubDate>
       
       <guid>http://www.hicape.com/tags/%E5%B7%B4%E8%A5%BF/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>李莹莹</title>
-      <link>http://www.hicape.com/tags/%E6%9D%8E%E8%8E%B9%E8%8E%B9/</link>
-      <pubDate>Sat, 29 Aug 2015 14:19:47 +0000</pubDate>
-      
-      <guid>http://www.hicape.com/tags/%E6%9D%8E%E8%8E%B9%E8%8E%B9/</guid>
       <description></description>
     </item>
     
@@ -9426,20 +9426,20 @@
     </item>
     
     <item>
-      <title>网络</title>
-      <link>http://www.hicape.com/tags/%E7%BD%91%E7%BB%9C/</link>
-      <pubDate>Tue, 12 Jul 2011 16:57:57 +0000</pubDate>
-      
-      <guid>http://www.hicape.com/tags/%E7%BD%91%E7%BB%9C/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>桥</title>
       <link>http://www.hicape.com/tags/%E6%A1%A5/</link>
       <pubDate>Tue, 12 Jul 2011 16:28:21 +0000</pubDate>
       
       <guid>http://www.hicape.com/tags/%E6%A1%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网络</title>
+      <link>http://www.hicape.com/tags/%E7%BD%91%E7%BB%9C/</link>
+      <pubDate>Tue, 12 Jul 2011 16:28:21 +0000</pubDate>
+      
+      <guid>http://www.hicape.com/tags/%E7%BD%91%E7%BB%9C/</guid>
       <description></description>
     </item>
     
@@ -9512,15 +9512,6 @@
       <pubDate>Tue, 12 Jul 2011 15:19:55 +0000</pubDate>
       
       <guid>http://www.hicape.com/tags/%E6%96%B0%E5%AA%92%E4%BD%93/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gap year</title>
-      <link>http://www.hicape.com/tags/gap-year/</link>
-      <pubDate>Tue, 12 Jul 2011 12:36:10 +0000</pubDate>
-      
-      <guid>http://www.hicape.com/tags/gap-year/</guid>
       <description></description>
     </item>
     
