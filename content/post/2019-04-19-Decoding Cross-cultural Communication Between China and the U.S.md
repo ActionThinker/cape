@@ -16,6 +16,7 @@ tags:
   - 美国
 
 ---
+
 > 我们知不知道” 是一回事，“我们怎么传播”又是另外一回事。
 
 本文作者， 李莹莹，莹响力Yingfluence创始人, 硅谷人工智能芯片公司Skive it首席运营官, 美国Own The Room企业培训师, “HowChina Works” 跨文化音频节目联合制片及主持人, 听众覆盖美英日德等五十多个国家, 并于2019年荣获 “金海归创新奖Top 10”。原财新世界说记者(曾采访梅琳达盖茨女士及澳大利亚前总理陆克文）及巴西圣保罗州立大学孔子学院讲师; 精通中、英，葡三语, 曾在美国，巴西，印度，土耳其，墨西哥，芬兰等多国工作。2017年创立了首个致力于中外英才交流和领导力提升的Yingfluencer--跨文化国际人才智库, 旨在打造最有温度与持续性的, 融合资源, 智慧与情感的国际人才生态圈。2018年入选全美优秀华裔创业者30 under 30. 终生致力于跨文化领导力的研究, 传播与实践。
@@ -68,8 +69,7 @@ tags:
 中国问题的国际战略和公关传播专家，瑞士学者吉博明（Diego Gilardoni）也在他的文章中多次提到： many Westerners hold a distrustful opinion about China, it certainly doesn’t help when they hear Chinese personalities speaking in what is perceived as an ambiguous, stiff, and opaque style. And as long as Chinese officials or managers will not learn how to communicate effectively in Western societies it will be very difficult to change the perception that many people have of China.（不少西方人对中国抱有不信任的看法，显然，听到中国人以模棱两可、呆板僵硬且晦暗不明的个人陈述无助于这种观感的改变。 倘若中国官员或管理者不学习如何在西方社会有效沟通，很难改变众多西方人对中国的看法。）
 
 关于中国的自我认识与全球的普遍认识的差异，我们看下面的这张图。上外面这张大圈是中国人给自己的自我评分，咱比较谦虚，在“令人愉快”“充满活力”和“不断发展”等这些方面给自己均打了80分左右，“创新”方面低一点，40分。但我们再来看里面那个圈，是来自全球的评分，不仅各项都低于50分，在“可靠可信”上竟然低于10分，这虽是几年前的数据，而现在的数据表明，中国的得分更低。 
- 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1g2q9a9d8nwj30r30fe1kx.jpg)                                                    
+![](https://ws4.sinaimg.cn/large/006tNc79gy1g2q9a9d8nwj30r30fe1kx.jpg)                                                   
 
 种种迹象表明，中美之间的信任出了问题，而“信任”是所有关系中最关键的，是钱买不来的，控制或勉强都不可以。中美两国的信任摩擦，有历史原因，也有地缘政治和全球经济竞争等等问题。解决信任问题最关键的办法就是沟通。
 
