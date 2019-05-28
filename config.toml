@@ -21,6 +21,14 @@ summaryLength = 240
     name = "标签"
     url = "/tags/"
     weight = 4
+    
+  [[menu.main]]
+    identifier = "tags"
+    name = "关于"
+    url = "http://www.hicape.com/about-cape/"
+    weight = 4
+    
+    
 
 
 [[params.ads]]
