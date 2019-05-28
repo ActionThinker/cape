@@ -26,8 +26,12 @@ summaryLength = 240
 [[params.ads]]
   title = "CAPE"
   url = "/"
-  img = "https://i.loli.net/2019/05/04/5ccd983b53213.jpeg"
+  img = "https://i.loli.net/2019/05/28/5ced34979409c95042.jpg"
 
+[[params.links]]
+  title = "ActionThinker "
+  name = "ActionThinker"
+  url = "https://actionthinker.com/"
 [[params.links]]
   title = "手艺人赵鹏 "
   name = "手艺人赵鹏"
