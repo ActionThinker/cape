@@ -48,8 +48,6 @@ CAPE Google Group是一个充满活力、尊重知识分享、提倡相互启�
 
 [<span style="color: #ff0000;">http://u.youku.com/user_show/uid_capechina</span>][2]（官方ID）
 
-&nbsp;
-
 **3.Flickr小组**
 
 [<span style="color: #ff0000;">http://www.flickr.com</span>/photos/capechina][3]

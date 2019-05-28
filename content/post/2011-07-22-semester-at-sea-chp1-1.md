@@ -24,13 +24,11 @@ tags:
   - 环球游学
 
 ---
-《追寻生命之光&#8211;环球游学，那些并不遥远的故事》
+《追寻生命之光——环球游学，那些并不遥远的故事》
 
-第一章  惊鸿一瞥
+**第一章  惊鸿一瞥**
 
-Semester At Sea（海上学府）简介
-
-&nbsp;
+**Semester At Sea（海上学府）简介**
 
 始于1963年，海上教育学会（The Institute for Shipboard Education）首创了全球独一无二的环球航海游学项目，将大学课堂、海外交流与环球旅行创造性地融合在了一起。
 
@@ -42,7 +40,6 @@ Semester At Sea（海上学府）简介
 
 在该项目的四十多年历史、五万余名校友中，来自中国大陆的学生不过寥寥十余人，且罕有中国大学生能够通过个人申请，从主办方获取足够奖学金并最终成行。2011年春季，来自浙江大学的赵轩成为了第一个获得高额奖学金的中国大陆学生。
 
-&nbsp;
 
 **官方网站**：
 
@@ -52,7 +49,7 @@ http://www.semesteratsea.org
   <strong>年度航行（以</strong><strong>2011</strong><strong>年为例）：</strong>
 </p>
 
-&nbsp;
+
 
 <div align="center">
   <table width="406" border="1" cellspacing="0" cellpadding="0">
@@ -409,14 +406,12 @@ http://www.semesteratsea.org
 </p>
 
 <p align="center">
-  <a href="http:// hicape.com/wp-content/uploads/2011/07/13.jpg"><img class="alignnone size-medium wp-image-895" alt="" src="http:// hicape.com/wp-content/uploads/2011/07/13-300x188.jpg" width="511" height="318" /></a>
+  <a href="http://hicape.com/wp-content/uploads/2011/07/13.jpg"><img class="alignnone size-medium wp-image-895" alt="" src="http:// hicape.com/wp-content/uploads/2011/07/13-300x188.jpg" width="511" height="318" /></a>
 </p>
 
 <p align="center">
   2011年1月12日~2011年4月24日。104天。四大洲。12个国家和地区。
 </p>
-
-&nbsp;
 
 <p align="center">
   <strong>2011</strong><strong>春学期乘客构成表</strong>
@@ -506,27 +501,15 @@ http://www.semesteratsea.org
   </table>
 </div>
 
-&nbsp;
 
-&nbsp;
-
-本文链接：[http:// hicape.com/2011/07/semester-at-sea-chp1-1/  
-][1] 欢迎大家关注我的微博@[轩的小航海时代][2]，近期将会开始和大家进行交流。
-
-&nbsp;
+本文链接：[http:// hicape.com/2011/07/semester-at-sea-chp1-1/][1] 欢迎大家关注我的微博@[轩的小航海时代][2]，近期将会开始和大家进行交流。
 
 阅读更多赵轩[《追寻生命之光——环球游学，那些并不遥远的故事》][3]
 
-&nbsp;
-
-您可以通过RSS阅读器[订阅][4]“全球青年实践网络”的文章：  
-<http://feed.feedsky.com/gypn>  
-欢迎发表评论，参与“全球青年实践网络”的讨论，或者在[新浪微博][5]上面关注我们。
-
-&nbsp;
 
  [1]: http:// hicape.com/2011/07/semester-at-sea-chp1-1/
  [2]: http://weibo.com/semesteratsea
  [3]: hicape.com/2011/07/diaries-zhaoxuan/
  [4]: http://feed.feedsky.com/gypn
  [5]: http://weibo.com/gypn
+

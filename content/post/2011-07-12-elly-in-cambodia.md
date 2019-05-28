@@ -107,9 +107,6 @@ tags:
 
 联系Elly：elly.aiesec@gmail.com
 
-&nbsp;
-
-&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
 
 其他资源推荐
 
@@ -122,3 +119,4 @@ tags:
  [1]: http://blog.sina.com.cn/s/blog_681833150100tp8t.html
  [2]: http://blog.sina.com.cn/u/1746416405
  [3]: http://weibo.com/wenlia
+
