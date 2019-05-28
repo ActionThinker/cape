@@ -24,7 +24,7 @@ tags:
   - 跨文化交流
 
 ---
-[<img class="alignnone size-medium wp-image-967" src="http:// hicape.com/wp-content/uploads/2011/07/23-300x186.jpg" alt="" width="300" height="186" srcset="http://hicape.com/wp-content/uploads/2011/07/23-300x186.jpg 300w, http://hicape.com/wp-content/uploads/2011/07/23.jpg 752w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+<img class="alignnone size-medium wp-image-967" src="http:// hicape.com/wp-content/uploads/2011/07/23-300x186.jpg" alt="" width="300" height="186" srcset="http://hicape.com/wp-content/uploads/2011/07/23-300x186.jpg 300w, http://hicape.com/wp-content/uploads/2011/07/23.jpg 752w" sizes="(max-width: 300px) 100vw, 300px" />
 
 大三下学期，我开始为自己的大四做计划。春夏学期基本无课，可谓天时。出国申请业已完成，可谓“地”利。积攒三年的经验、人脉与各种软硬指标，心之所向，游刃有余，可谓人和。有此天时地利人和，何不做点事情？加之虽然临近毕业，我却仍然不确定自己想做什么：大一结束后转出巴德年医学班，那时的我，坚定地要去美国读心理学博士。忙忙碌碌奔走两年，寻寻觅觅生命之光，我却又模模糊糊地觉得，我看到的心理学，不是我想要的模样——若不能使得人民更加幸福、我的人生多少做点贡献、处在变革期的中国社会经历更短阵痛，自娱自乐的学问，若是做下去，也是不甘心。
 
@@ -61,22 +61,11 @@ Semester At Sea，我准备好了。
 
 不一样的人生，我准备好了。
 
-&nbsp;
+本文链接：[http:// hicape.com/2011/07/semester-at-sea-chp2-2/](http:// hicape.com/2011/07/semester-at-sea-chp2-2/),欢迎大家关注我的微博@[轩的小航海时代][3]，近期将会开始和大家进行交流。
 
-本文链接：[http:// hicape.com/2011/07/semester-at-sea-chp2-2/  
-][2] 欢迎大家关注我的微博@[轩的小航海时代][3]，近期将会开始和大家进行交流。
+阅读更多赵轩[《追寻生命之光——环球游学，那些并不遥远的故事》](http:// hicape.com/2011/07/diaries-zhaoxuan/)
 
-阅读更多赵轩[《追寻生命之光——环球游学，那些并不遥远的故事》][4]
 
-&nbsp;
-
-您可以通过RSS阅读器[订阅][5]“全球青年实践网络”的文章：  
-<http://feed.feedsky.com/gypn>  
-欢迎发表评论，参与“全球青年实践网络”的讨论，或者在[新浪微博][6]上面关注我们。
-
- [1]: http:// hicape.com/wp-content/uploads/2011/07/23.jpg
- [2]: http:// hicape.com/2011/07/semester-at-sea-chp2-2/
  [3]: http://weibo.com/semesteratsea
- [4]: http:// hicape.com/2011/07/diaries-zhaoxuan/
- [5]: http://feed.feedsky.com/gypn
- [6]: http://weibo.com/gypn
+
+

@@ -1,6 +1,6 @@
 ---
 title: Don’t Take It For Granted： 所有生活中的“理所当然”，其实都应感谢命运偏爱
-author: Sizzy
+author: 赵轩
 type: post
 date: 2011-08-12T00:08:00+00:00
 excerpt: 有时候，一些特别的境遇，会将所耳闻、所目睹、所经历的生活降至不曾想象的境地。
@@ -21,7 +21,7 @@ tags:
   - 跨文化交流
 
 ---
-By [Zhaoxuan 赵轩][1]
+文/ [Zhaoxuan 赵轩][1]
 
 不要以为脚下结实的土地理所应当。若不是亲身经历，很难形容每一次踏上平稳的陆地后，心中难以置信的狂喜。尤其在这横渡太平洋的船上，我一次次感慨“在陆地上上学是多么幸福”。
 
@@ -45,23 +45,12 @@ By [Zhaoxuan 赵轩][1]
 
 就好像退潮之后，波澜不惊的海面上显露出零散的珊瑚礁，而这些珊瑚礁，可能只是空气、饮用水、健全的肢体等，排在马斯洛“需要层次理论”中最底层的一些几乎被我们忽略的小事。
 
-&nbsp;
 
-本文链接：[http:// hicape.com/2011/08/semester-at-sea-chp2-6/  
-][2] 欢迎大家关注我的微博@[轩的小航海时代][1]，近期将会开始和大家进行交流。
-
-阅读更多赵轩[《追寻生命之光——环球游学，那些并不遥远的故事》][3]
-
-&nbsp;
-
-您可以通过RSS阅读器[订阅][4]“全球青年实践网络”的文章：  
-<http://feed.feedsky.com/gypn>  
-欢迎发表评论，参与“全球青年实践网络”的讨论，或者在[新浪微博][5]上面关注我们。
+阅读更多赵轩[《追寻生命之光——环球游学，那些并不遥远的故事》](http:// hicape.com/2011/07/diaries-zhaoxuan/)
 
 *本文主页配图来自互联网：http://jishi.xooob.com/wh/20095/378846_1069650.html
 
  [1]: http://weibo.com/semesteratsea
- [2]: http:// hicape.com/2011/08/semester-at-sea-chp2-6/
- [3]: http:// hicape.com/2011/07/diaries-zhaoxuan/
- [4]: http://feed.feedsky.com/gypn
- [5]: http://weibo.com/gypn
+
+
+

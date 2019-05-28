@@ -21,8 +21,6 @@ categories:
   <strong>2011</strong><strong>年春学期课程表</strong>
 </p>
 
-&nbsp;
-
 <p align="left">
   <strong>全球研究</strong><strong>/Global Studies</strong>
 </p>
@@ -423,8 +421,6 @@ categories:
   The Uses of Race in Abolitionist Literature（废奴主义文学中的种族意象）
 </p>
 
-&nbsp;
-
 <p align="center">
   <strong>我的课程</strong><strong></strong>
 </p>
@@ -453,25 +449,13 @@ categories:
   批判性地探索全球的重要伦理问题，如道德相对主义、人权问题、世界贫困、国际援助、民族主义、世界主义、全球变暖、战争与恐怖主义与全球化。通过阅读Martha Nussbaum, Peter Singer, Thomas Pogge, John Rawls, Michael Walzer, Henry Shue, Immanuel Kant等哲学家的著作，对该主题进行深入理解。在本次行程中，我们将会观察到许多社会人权与伦理问题，因此这门课程上的深入思考对于本次行程不可或缺。
 </p>
 
-&nbsp;
-
 <p align="left">
   本文地址：<strong></strong><a href="http:// hicape.com/2011/07/semester-at-sea-chp1-2-2/"> http:// hicape.com/2011/07/semester-at-sea-chp1-2-2/</a>
 </p>
 
-<p align="left">
-  欢迎大家关注我的微博@<a href="http://weibo.com/semesteratsea">轩的小航海时代</a>，近期将会开始和大家进行交流。
-</p>
+欢迎大家关注我的微博@<a href="http://weibo.com/semesteratsea">轩的小航海时代</a>，近期将会开始和大家进行交流。
 
-<p align="left">
-  <p>
-    阅读更多赵轩<a href="http:// hicape.com/2011/07/diaries-zhaoxuan/">《追寻生命之光——环球游学，那些并不遥远的故事》</a>
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    您可以通过RSS阅读器<a href="http://feed.feedsky.com/gypn">订阅</a>“全球青年实践网络”的文章：<br /> <a href="http://feed.feedsky.com/gypn">http://feed.feedsky.com/gypn</a><br /> 欢迎发表评论，参与“全球青年实践网络”的讨论，或者在<a href="http://weibo.com/gypn">新浪微博</a>上面关注我们。
-  </p>
+
+阅读更多赵轩<a href="http:// hicape.com/2011/07/diaries-zhaoxuan/">《追寻生命之光——环球游学，那些并不遥远的故事》
+
+

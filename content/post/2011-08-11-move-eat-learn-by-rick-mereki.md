@@ -15,25 +15,16 @@ views:
 categories:
   - CAPE随笔
   - 海外行者分享
-
 ---
-3 guys, 44 days, 11 countries, 18 flights, 38 thousand miles, an exploding volcano, 2 cameras and almost a terabyte of footage&#8230; all to turn 3 ambitious linear concepts based on movement, learning and food &#8230;.into 3 beautiful and hopefully compelling short films&#8230;..
 
-&nbsp;
+3 guys, 44 days, 11 countries, 18 flights, 38 thousand miles, an exploding volcano, 2 cameras and almost a terabyte of footage&#8230; all to turn 3 ambitious linear concepts based on movement, learning and food &#8230;.into 3 beautiful and hopefully compelling short films&#8230;..
 
 = a trip of a lifetime.
 
-&nbsp;
-
 **move, eat, learn**  
 **Move**  
-
-
 **Eat**  
-
-
 **Learn**  
-
 
 Rick Mereki : Director, producer, additional camera and editing  
 Tim White : DOP, producer, primary editing, sound  
@@ -62,11 +53,3 @@ Juane and Andrea from the Princeca Insolenta hostel in Chile
 
 Thank you all for your kind words and encouragement. The response has been phenomenal and overwhelming. We never thought this little project would reach out to so many people.
 
-&nbsp;
-
-您可以通过RSS阅读器[订阅][1]“全球青年实践网络”的文章：  
-<http://feed.feedsky.com/gypn>  
-欢迎发表评论，参与“全球青年实践网络”的讨论，或者在[新浪微博][2]上面关注我们。
-
- [1]: http://feed.feedsky.com/gypn
- [2]: http://weibo.com/gypn
