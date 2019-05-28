@@ -23,7 +23,7 @@ summaryLength = 240
     weight = 4
     
   [[menu.main]]
-    identifier = "tags"
+    identifier = "about"
     name = "关于"
     url = "http://www.hicape.com/about-cape/"
     weight = 4
