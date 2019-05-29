@@ -11,4 +11,5 @@ posturl_add_url:
   - 'yes'
 
 ---
-text
+tags
+

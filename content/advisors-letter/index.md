@@ -7,75 +7,34 @@ posturl_add_url:
   - 'yes'
 
 ---
-<h3 class="entry-title" style="text-align: center;">
-  <strong>小石 ：<a href="http://www.simple-education.org/archives/35">积极参与社会实践和改良，正在成为新一代青年的重要特点</a>   </strong>
-</h3>
+小石 ：<a href="http://www.simple-education.org/archives/35">积极参与社会实践和改良，正在成为新一代青年的重要特点</a>  
 
-<div class="entry-content">
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    作为今年暑假刚由几个青年和学生刚刚发起的学生组织，“<a href="https://web.archive.org/web/20111110194212/http://capechina.org/">Capechina – 全球青年实践网络</a>”还处在一个摸索的过程中。
-  </p>
-  
-  <p>
-    最初成员主要是参与或者参与过“<a href="https://web.archive.org/web/20111110194212/http://http//www.aiesec.cn">AIESEC – 国际实习生交换组织</a>” 的成员，讨论也首先是AIESEC对当代中国青年学生和社会的价值，以及AIESEC目前在中国实践中遇到的问题，进而讨论到“AIESEC本土化”的问题。
-  </p>
-  
-  <p>
-    后因许多讨论和设想，发觉借助AIESEC官方组织来推动，要颇费周折，因此有同学提议，不妨发起一个草根组织，从我们自身做起，由我们自身的实践和所展现的价值，进而再影响AIESEC等其他组织的变革。
-  </p>
-  
-  <p>
-    并由于“<a href="https://web.archive.org/web/20111110194212/http://www.semesteratsea.org/">SAS – 海上学府</a>”（Semester At Sea）的赵轩、“ <a href="https://web.archive.org/web/20111110194212/http://www.couchsurfing.org/">CouchSurfing- 沙发漫游</a>”的Henry等同学，以及<a href="https://web.archive.org/web/20111110194212/http://tedtochina.com/">TEDtoChina</a>的发起人之一Oliver的加入，进一步确立为现在的Capechina。
-  </p>
-  
-  <p>
-    今天，我想摘录一段最初在讨论<a href="https://web.archive.org/web/20111110194212/http://http//www.aiesec.cn">AIESEC</a>本土化时，我对AIESEC定位的一点建议，也算是作为参与其中的一点感受。
-  </p>
-  
-  <p>
-    ***
-  </p>
-  
-  <p>
-    我感觉，AIESEC 首先是一个“全球青年实践网络”，而不仅仅是一个“世界之窗”。
-  </p>
-  
-  <p>
-    号称“世界之窗”的各类国内外新闻媒体机构已经非常多，而习惯了以媒体人、新闻人的角色对世界的冷眼旁观，已经让我们习惯了走马观花，丧失了许多对周围的自然、社会和我们自身的敏感。我们似乎已经知道太多，又似乎什么都不知道。
-  </p>
-  
-  <p>
-    这种过分的成熟，既消耗了我们的热情，又常常使我们陷于迷茫。因此，近年来，以实习生、志愿者等实践者，或者说主体的身份，积极参与社会的改良，已经成为新一代青年的一个重要特点。
-  </p>
-  
-  <p>
-    所以，我建议AIESEC，尤其是“AIESEC中国”的同学，不妨高举“青年实践”的旗帜。
-  </p>
-  
-  <p>
-    另外，谈到实践，必然涉及到观察、讨论，然后才有实践，所以，自然就会承担“世界之窗”的部分功能，但与绝大多数作为“世界之窗”的传统新闻媒体机构不同的是，这是这些观察、讨论，是来自于许多青年作为社会改良者的亲身观察、体验和行动。
-  </p>
-  
-  <p>
-    稍微浏览了一下大家的讨论，我想先回应一下这封邮件标题中有关AIESEC定位的考虑。
-  </p>
-  
-  <p>
-    （注：有趣的是，Capechina最初的命名竟然就直接用了“GYPN – 全球青年实践网络”。@<a href="https://web.archive.org/web/20111110194212/http://weibo.com/chenluaihr">Actionthinker</a> 作为发起人之一，更是把“GYPN”戏称为“哥要骗你”。但这无疑是让他工作之余，倾注了最大心力的一件事。）
-  </p>
-</div>
+作为今年暑假刚由几个青年和学生刚刚发起的学生组织，“<a href="https://web.archive.org/web/20111110194212/http://capechina.org/">Capechina – 全球青年实践网络</a>”还处在一个摸索的过程中。
 
-&nbsp;
-
+最初成员主要是参与或者参与过“<a href="https://web.archive.org/web/20111110194212/http://http//www.aiesec.cn">AIESEC – 国际实习生交换组织</a>” 的成员，讨论也首先是AIESEC对当代中国青年学生和社会的价值，以及AIESEC目前在中国实践中遇到的问题，进而讨论到“AIESEC本土化”的问题。
+  
+后因许多讨论和设想，发觉借助AIESEC官方组织来推动，要颇费周折，因此有同学提议，不妨发起一个草根组织，从我们自身做起，由我们自身的实践和所展现的价值，进而再影响AIESEC等其他组织的变革。
+  
+并由于“<a href="https://web.archive.org/web/20111110194212/http://www.semesteratsea.org/">SAS – 海上学府</a>”（Semester At Sea）的赵轩、“ <a href="https://web.archive.org/web/20111110194212/http://www.couchsurfing.org/">CouchSurfing- 沙发漫游</a>”的Henry等同学，以及<a href="https://web.archive.org/web/20111110194212/http://tedtochina.com/">TEDtoChina</a>的发起人之一Oliver的加入，进一步确立为现在的Capechina。
+ 
+今天，我想摘录一段最初在讨论<a href="https://web.archive.org/web/20111110194212/http://http//www.aiesec.cn">AIESEC</a>本土化时，我对AIESEC定位的一点建议，也算是作为参与其中的一点感受。
+  
+我感觉，AIESEC 首先是一个“全球青年实践网络”，而不仅仅是一个“世界之窗”。
+  
+号称“世界之窗”的各类国内外新闻媒体机构已经非常多，而习惯了以媒体人、新闻人的角色对世界的冷眼旁观，已经让我们习惯了走马观花，丧失了许多对周围的自然、社会和我们自身的敏感。我们似乎已经知道太多，又似乎什么都不知道。
+ 
+这种过分的成熟，既消耗了我们的热情，又常常使我们陷于迷茫。因此，近年来，以实习生、志愿者等实践者，或者说主体的身份，积极参与社会的改良，已经成为新一代青年的一个重要特点。
+  
+所以，我建议AIESEC，尤其是“AIESEC中国”的同学，不妨高举“青年实践”的旗帜。
+  
+另外，谈到实践，必然涉及到观察、讨论，然后才有实践，所以，自然就会承担“世界之窗”的部分功能，但与绝大多数作为“世界之窗”的传统新闻媒体机构不同的是，这是这些观察、讨论，是来自于许多青年作为社会改良者的亲身观察、体验和行动。
+  
+稍微浏览了一下大家的讨论，我想先回应一下这封邮件标题中有关AIESEC定位的考虑。
+  
+（注：有趣的是，Capechina最初的命名竟然就直接用了“GYPN – 全球青年实践网络”。@<a href="https://web.archive.org/web/20111110194212/http://weibo.com/chenluaihr">Actionthinker</a> 作为发起人之一，更是把“GYPN”戏称为“哥要骗你”。但这无疑是让他工作之余，倾注了最大心力的一件事。）
+  
 2011/09/10
 
-&nbsp;
-
-* * *
 
 &nbsp;
 
@@ -83,15 +42,11 @@ posturl_add_url:
   <strong>OliverDing：<a href="http://swordi.com/2013/06/08/capexboston_gypn/">CAPE前传故事两则</a></strong>
 </h3>
 
-&nbsp;
-
 今天看到CAPE发出如下的一个海报，进行社区成立2周年的庆祝。想不到这么快又一年了，这一年来CAPE蜕变了很多。行动加速成长果真没有错。行动会带来更多机会，资源和联结。行动会引领社区找到大家想要去的地方。
-
-[<img class="alignnone size-full wp-image-1855" title="cape2013" src="http://swordi.com/wp-content/uploads/2013/06/cape2013.jpg" sizes="(max-width: 608px) 100vw, 608px" srcset="http://swordi.com/wp-content/uploads/2013/06/cape2013.jpg 608w, http://swordi.com/wp-content/uploads/2013/06/cape2013-279x300.jpg 279w" alt="" width="608" height="652" />][1]
 
 我从2011年开始担任CAPE项目的顾问，和这个团队的同仁保持密切的沟通，一路看着它的成长。通过CAPE社区，我也保持和年轻一代的联结，得以深入感受一群海内外青年的困惑、苦恼、梦想、激情、冒险、创意和奇遇。CAPE的陈露叫我写几句话，我想起在这个blog里一直有一篇2011年写的草稿，现在就把它发布出来吧。
 
-# 未完成的CAPExBoston
+**未完成的CAPExBoston**
 
 一年前，我帮助CAPE进行了开放品牌计划的测试，[发起了CAPExBoston项目][2]。
 
@@ -105,11 +60,9 @@ CAPEx测试计划后来增加了CAPExNYC和CAPExSG两个聚点。整个计划定
 
 一个社区的成长和个人的成长一样，秉承开放心态就好了，敏锐洞察社区的需求，推出帮助人们的服务和产品，在共同远景不变的前提下，具体的做法可以不断与时俱进，这样在不断创造建设性价值的同时，社区整体和每个成员个体都可以不断成长。
 
-[<img class="alignnone size-full wp-image-1856" title="cape1st_i-wish" src="http://swordi.com/wp-content/uploads/2013/06/cape1st_i-wish.png" sizes="(max-width: 600px) 100vw, 600px" srcset="http://swordi.com/wp-content/uploads/2013/06/cape1st_i-wish.png 600w, http://swordi.com/wp-content/uploads/2013/06/cape1st_i-wish-230x300.png 230w" alt="" width="600" height="780" />][8]
-
 下面这些文字是2011年8月23日记录在这个blog里的，存成了草稿，一直没有发布出来。三个月之后（2011年11月30日），GYPN已经更名为了CAPE。这篇稿件算是一篇纪念贴。
 
-# GYPN.org：当旅行者成为文化桥梁
+**GYPN.org：当旅行者成为文化桥梁**
 
 八月初的时候偶然看到GYPN.org这个网站，觉得有些触动，就随手在G+和TEDtoChina邮件讨论组上分享了一下。随后和他们团队成员有了一些沟通，因为打心底喜欢这个项目，也就答应加入他们的顾问团队，助力他们成长。
 
@@ -141,3 +94,4 @@ CAPEx测试计划后来增加了CAPExNYC和CAPExSG两个聚点。整个计划定
  [8]: http://swordi.com/wp-content/uploads/2013/06/cape1st_i-wish.png
  [9]: http://next.swordi.com/
  [10]: http://www.tedtochina.com/
+
