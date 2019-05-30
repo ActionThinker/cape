@@ -45,8 +45,6 @@ That’s all today,love you!
 
 2016.4.6
 
-&nbsp;
-
 * * *
 
 <h3 id="我给笑芸的第十一封回信" style="text-align: center;">
@@ -67,4 +65,5 @@ That’s all today,love you!
 
 露
 
-2016.4.6</article>
+2016.4.6
+

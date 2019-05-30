@@ -40,7 +40,7 @@ Sustainable Social Entrepreneurship这个课到目前教给我最重要的东西
 
 Sustainable Social Entrepreneurship第一节课如之前我给你所说，让我们感受了一下解决一个现实中的公司问题的场景。同样，那种头脑风暴的要诀，就是要有节奏的快——5分钟说问题，5分钟自己思考，30秒每人发言，10分钟综合讨论。第二堂课，则告诉了我们Design think的一个大体原则：
 
-**Empathy ==> ****Define****==>****ideate****==>****prototype==>****test==>****Empathy**
+**Empathy==> ****Define****==>****ideate****==>****prototype==>****test==>****Empathy**
 
 绝非老师一个人在台上演讲，75分钟里，我们通过一个日常生活里的例子把整个循环都体验了一遍：重新设计一次送礼物的经历。两个人为一组，我们互相采访对方的一次送人礼物的经历，每轮3分钟；第二次3分钟里，我们对刚才所获取的信息进行深度挖掘（Empathy）；第三个三分钟，我们写下挖掘出的对方的需求和问题所在(Define)；第四个三分钟，自己写下为对方redesign的5-7个送礼物的方式(ideate)；第五个三分钟，很快地把自己初步构想的方案和对方讨论，得到反馈(prototype and test)；第六个三分钟，找到其中一个进行深度策划；第七个三分钟:debrief。在这个过程里你看到了，每一个环节进行得非常快，我们都说感觉自己还没问完时间就到了。George说，“那就对了，在激发创新灵感的时候不需要充足的时间，那样会把时间浪费在构思很多无用的东西上。”
 
@@ -48,10 +48,10 @@ Sustainable Social Entrepreneurship第一节课如之前我给你所说，让我
 
 那关于这个Project的具体情况，就请听下回分解咯！
 
-&nbsp;
 
 2013.1.20
 
-注：作者系Semaster At Sea 2013年学员，后面将会和大家分享系列SAS环球游学经历和见闻，[阅读系列文章点击][1]。
+**注**：作者系Semaster At Sea 2013年学员，后面将会和大家分享系列SAS环球游学经历和见闻，[阅读系列文章点击][1]。
 
  [1]: http://hicape.com/category/column/zhengqingzhi/
+

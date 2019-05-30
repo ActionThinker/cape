@@ -39,11 +39,10 @@ tags:
 
 圣雄甘地说：“成为你想见到的世界上的改变（Be the change you want to see in the world.）。”我想这才是我应该以为目标的事。而那个出发点，应该是一个谦逊敞开的胸怀，用它来盛满慈悲。就像“饥饿宴席”（Hunger Banquet）逻辑，让我们培养一颗对弱势群体同理心，接着改变自己的所为，而世界会随之改变。
 
-&nbsp;
-
-注：作者系Semaster At Sea 2013年学员，后面将会和大家分享系列SAS环球游学经历和见闻，[阅读系列文章点击][2]。
+**注**：作者系Semaster At Sea 2013年学员，后面将会和大家分享系列SAS环球游学经历和见闻，[阅读系列文章点击][2]。
 
 2013.3.4
 
  [1]: https://www.oxfam.org/en/countries/oxfam-america-hunger-banquetr
  [2]: http://hicape.com/category/column/zhengqingzhi/
+

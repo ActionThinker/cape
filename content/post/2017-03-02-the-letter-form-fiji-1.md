@@ -111,9 +111,9 @@ Suka，一个21岁的斐济女孩，将在接下来的三周陪同我，开始�
   4. 了解入境申请表的填写
   5. 保持心态放松与警觉性
 
-&nbsp;
 
 文/ActionThinker
 
  [1]: http://hicape.com/
  [2]: http://www.greenwaychina.org/index.php/zh/haiwai/oceania/fiji.html
+
