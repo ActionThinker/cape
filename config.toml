@@ -14,13 +14,13 @@ summaryLength = 240
     identifier = "archives"
     name = "归档"
     url = "/archives/"
-    weight = 3
+    weight = 2
     
   [[menu.main]]
     identifier = "about"
     name = "缘起"
     url = "http://www.hicape.com/why"
-    weight = 4
+    weight = 3
     
   [[menu.main]]
     identifier = "about"
