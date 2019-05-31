@@ -22,12 +22,6 @@ summaryLength = 240
     url = "http://www.hicape.com/why"
     weight = 3
     
-  [[menu.main]]
-    identifier = "about"
-    name = "关于"
-    url = "http://www.hicape.com/about-cape"
-    weight = 4
-    
 
 
 [[params.ads]]
