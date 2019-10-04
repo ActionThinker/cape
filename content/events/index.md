@@ -11,4 +11,4 @@ views:
   - "14473"
 
 ---
-了解并发起活动，请参见<span style="color: #ff0000;"><a href="http://www.hicape.com/cape-meetup/" target="_blank"><span style="color: #ff0000;">CAPE <span style="color: #ff0000;"><span style="color: #ff0000;">Meetup</span></span></span></a></span>详情。
+了解并发起活动，请参见<span style="color: #ff0000;"><a href="http://www.hicape.org/cape-meetup/" target="_blank"><span style="color: #ff0000;">CAPE <span style="color: #ff0000;"><span style="color: #ff0000;">Meetup</span></span></span></a></span>详情。

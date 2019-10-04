@@ -40,11 +40,11 @@ views:
 </p>
 
 <p dir="ltr">
-  查看正在发起的CAPE Meetup活动，<span style="color: #339966;"><a href="http://www.hicape.com/events" target="_blank"><span style="color: #339966;">点击此处</span></a></span>。
+  查看正在发起的CAPE Meetup活动，<span style="color: #339966;"><a href="http://www.hicape.org/events" target="_blank"><span style="color: #339966;">点击此处</span></a></span>。
 </p>
 
 <p dir="ltr">
-  查看之前CAPE Meetup的活动回顾，<span style="color: #339966;"><a href="http://hicape.com/category/cape-meetup/" target="_blank"><span style="color: #339966;">点击此处</span></a></span>。
+  查看之前CAPE Meetup的活动回顾，<span style="color: #339966;"><a href="http://hicape.org/category/cape-meetup/" target="_blank"><span style="color: #339966;">点击此处</span></a></span>。
 </p>
 
 #### ** **
@@ -62,23 +62,23 @@ views:
 </p>
 
 <p dir="ltr">
-  2、参照<span style="color: #339966;"><a href="http://hicape.com/ai1ec_event/capemeetup-leshan/?instance_id=" target="_blank"><span style="color: #339966;">【CAPE Meetup丨乐山】2.3“为生活打点鸡血–新四年青年的自我探索”</span></a></span>的文案写一篇你的CAPE Meetup召集文稿，并以“发起时间+地点+Meetup”（如“2.25 四川乐山 Meetup”）为邮件主题发给联系你的CAPE小伙伴。同时，在附件中附上一张较为清晰（jpg格式，大于1M）、具有地方特色或城市特色的照片，照片命名“城市+照片来源”，用于海报制作。审定通过或修改完成后，CAPE社区会协助你去传播和组织你的聚会活动。
+  2、参照<span style="color: #339966;"><a href="http://hicape.org/ai1ec_event/capemeetup-leshan/?instance_id=" target="_blank"><span style="color: #339966;">【CAPE Meetup丨乐山】2.3“为生活打点鸡血–新四年青年的自我探索”</span></a></span>的文案写一篇你的CAPE Meetup召集文稿，并以“发起时间+地点+Meetup”（如“2.25 四川乐山 Meetup”）为邮件主题发给联系你的CAPE小伙伴。同时，在附件中附上一张较为清晰（jpg格式，大于1M）、具有地方特色或城市特色的照片，照片命名“城市+照片来源”，用于海报制作。审定通过或修改完成后，CAPE社区会协助你去传播和组织你的聚会活动。
 </p>
 
 <p dir="ltr">
   3、至于Meetup报名，活动组织设计，地点联络，联系参会者等，需要由发起人充分发挥“自组织”精神，充分动员本地社区青年（可以邀请1-3位积极青年作为活动共同发起人）全权责张罗，如果你没有太好的思路，可以参照CAPE提供已经组织过的活动案例进行活动设计，通过邮件、微信与我们的活动顾问进行<span style="line-height: 1.5em;">一对一</span><span style="line-height: 1.5em;">交流，还可以在CAPE Meetup 发起人社区寻求支持和帮助。以往较好的活动案例可供参考：</span>
 </p>
 
-  * <span style="color: #339966;"><a href="http://hicape.com/2013/10/shenzhen-lifestyle/" target="_blank"><span style="color: #339966;">【深圳播报】9.7Lifestyle系列之 “深夜文化与行动”活动回顾</span></a></span>
-  * <span style="color: #339966;"><a href="http://hicape.com/2014/02/nanning-meetup-reivew-2/" target="_blank"><span style="color: #339966;">【南宁播报】2.6“返乡青年的返乡故事和视野共享”活动回顾</span></a></span>
-  * <span style="color: #339966;"><a href="http://hicape.com/2013/09/xian-cape-meetup-review/" target="_blank"><span style="color: #339966;">【西安播报】8.28 对当代大学精神的省思与展望</span></a></span>
+  * <span style="color: #339966;"><a href="http://hicape.org/2013/10/shenzhen-lifestyle/" target="_blank"><span style="color: #339966;">【深圳播报】9.7Lifestyle系列之 “深夜文化与行动”活动回顾</span></a></span>
+  * <span style="color: #339966;"><a href="http://hicape.org/2014/02/nanning-meetup-reivew-2/" target="_blank"><span style="color: #339966;">【南宁播报】2.6“返乡青年的返乡故事和视野共享”活动回顾</span></a></span>
+  * <span style="color: #339966;"><a href="http://hicape.org/2013/09/xian-cape-meetup-review/" target="_blank"><span style="color: #339966;">【西安播报】8.28 对当代大学精神的省思与展望</span></a></span>
 
 <p dir="ltr">
   4、作为对CAPE社区的支持，每一次聚会希望发起者能够和大家介绍CAPE且邀请参会者加入CAPE社区，同时在活动过后鼓励大家通过发送微博分享自己的聚会收获+标签#CAPE Meetup#同时@CapeChina微博，此外还鼓励大家通过博客记录、微信朋友圈图文等形式分享自己在聚会中的收获，让更多朋友不能亲临现场的朋友也能够通过你们的分享而受益。
 </p>
 
 <p dir="ltr">
-  5、特别地，我们希望每一个申请获得CAPE支持的朋友能够为你所发起的这次聚会撰写一篇回顾，比如<span style="color: #339966;"><a href="http://hicape.com/2013/10/resource-mapping/" target="_blank"><span style="color: #339966;">【香港播报】8.25 深港公益伙伴，一起构建资源地图</span></a></span>，同时提交现场活动清晰合照及现场花絮照片，记录下你与他们的友谊，还有你们聚会的收获，待下一次聚会的时候，我们一起重温当时的场景。
+  5、特别地，我们希望每一个申请获得CAPE支持的朋友能够为你所发起的这次聚会撰写一篇回顾，比如<span style="color: #339966;"><a href="http://hicape.org/2013/10/resource-mapping/" target="_blank"><span style="color: #339966;">【香港播报】8.25 深港公益伙伴，一起构建资源地图</span></a></span>，同时提交现场活动清晰合照及现场花絮照片，记录下你与他们的友谊，还有你们聚会的收获，待下一次聚会的时候，我们一起重温当时的场景。
 </p>
 
 #### ** **

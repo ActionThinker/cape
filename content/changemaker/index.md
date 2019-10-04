@@ -24,17 +24,17 @@ views:
 
 **阅读他们的故事：**
 
-<a href="http://www.hicape.com/2012/11/cape-talk-anyang/" target="_blank">CAPE Talk：安扬</a>
+<a href="http://www.hicape.org/2012/11/cape-talk-anyang/" target="_blank">CAPE Talk：安扬</a>
 
-<a href="http://www.hicape.com/2012/10/cape-talk%ef%bc%9atony-yet/" target="_blank">CAPE Talk：Tony Yet</a>
+<a href="http://www.hicape.org/2012/10/cape-talk%ef%bc%9atony-yet/" target="_blank">CAPE Talk：Tony Yet</a>
 
-<a href="http://www.hicape.com/2012/11/cape-talk-keledoll/" target="_blank">CAPE Talk：Keledoll</a>
+<a href="http://www.hicape.org/2012/11/cape-talk-keledoll/" target="_blank">CAPE Talk：Keledoll</a>
 
 [CAPE Talk：肖擎曜][1]
 
 [CAPE Talk：王小免][2]
 
-<a href="http://www.hicape.com/2013/01/cape-talk-wangjun/" target="_blank">CAPE Talk:小鬼王俊</a>
+<a href="http://www.hicape.org/2013/01/cape-talk-wangjun/" target="_blank">CAPE Talk:小鬼王俊</a>
 
 &nbsp;
 
@@ -52,10 +52,10 @@ views:
 
 &nbsp;
 
-参与<a href="http:// hicape.com/cape-talk/" target="_blank">CAPE Talk</a>：Talk with Changemaker.  
+参与<a href="http:// hicape.org/cape-talk/" target="_blank">CAPE Talk</a>：Talk with Changemaker.  
 
 
 &nbsp;
 
- [1]: http://www.hicape.com/2012/12/cape-talk-xiaojingyao/
- [2]: http://www.hicape.com/2012/12/cape-talk-wangxiaotu/
+ [1]: http://www.hicape.org/2012/12/cape-talk-xiaojingyao/
+ [2]: http://www.hicape.org/2012/12/cape-talk-wangxiaotu/

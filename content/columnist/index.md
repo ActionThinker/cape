@@ -17,11 +17,11 @@ Syracuse University国际关系研究生。现在是在DC的Young poor professio
 
 微博：<a href="http://www.weibo.com/2174601124" target="_blank">@不靠谱仔</a>       博客：<a href="http://blog.sina.com.cn/u/2174601124" target="_blank">Joy的美国生活</a>
 
-查看专栏文章：<a href="http://www.hicape.com/category/peoples/column/joy/" target="_blank">点击</a>
+查看专栏文章：<a href="http://www.hicape.org/category/peoples/column/joy/" target="_blank">点击</a>
 
 >>>>>
 
-[<img class="size-full wp-image-1915 alignleft" title="2" src="http://www.hicape.com/wp-content/uploads/2011/10/21.jpg" alt="" width="218" height="294" srcset="http://hicape.com/wp-content/uploads/2011/10/21.jpg 379w, http://hicape.com/wp-content/uploads/2011/10/21-222x300.jpg 222w" sizes="(max-width: 218px) 100vw, 218px" />][1]
+[<img class="size-full wp-image-1915 alignleft" title="2" src="http://www.hicape.org/wp-content/uploads/2011/10/21.jpg" alt="" width="218" height="294" srcset="http://hicape.org/wp-content/uploads/2011/10/21.jpg 379w, http://hicape.org/wp-content/uploads/2011/10/21-222x300.jpg 222w" sizes="(max-width: 218px) 100vw, 218px" />][1]
 
 **赵轩**
 
@@ -37,13 +37,13 @@ Syracuse University国际关系研究生。现在是在DC的Young poor professio
 
 博客：<a href="http://xuan-littleworld.blogspot.com/" target="_blank">One New Thing a Day</a>
 
-查看专栏文章：<a title="赵轩" href="http://www.hicape.com/category/peoples/column/zhaoxuan/" target="_blank">点击</a>
+查看专栏文章：<a title="赵轩" href="http://www.hicape.org/category/peoples/column/zhaoxuan/" target="_blank">点击</a>
 
 &nbsp;
 
 >>>>
 
-[<img class="alignleft  wp-image-2284" title="111" src="http://www.hicape.com/wp-content/uploads/2011/10/1111.jpg" alt="" width="267" height="303" />][2]**叶芊林**
+[<img class="alignleft  wp-image-2284" title="111" src="http://www.hicape.org/wp-content/uploads/2011/10/1111.jpg" alt="" width="267" height="303" />][2]**叶芊林**
 
 中国人民大学国民经济管理专业学生，在台湾当交换生至明年1月。从九月开始在博客连载台湾纪事，记录一个大陆人眼里的台湾社会，而之后会有一些专访及青年实践的经验之谈与CAPE的读者分享。她热爱公益，每到一个地方，都要加入当地的NGO当志愿者，了解它的运行机制和现状。她希望有一天能和她的朋友们在中国建立一个真正的NGO，成为民间力量的代表。
 
@@ -67,7 +67,7 @@ Syracuse University国际关系研究生。现在是在DC的Young poor professio
 
 >>>>>
 
-**[<img class="alignleft  wp-image-2616" title="Rick" src="http://www.hicape.com/wp-content/uploads/2011/10/Rick-e1330754244582.jpg" alt="" width="268" height="240" />][3]吴孟霖**
+**[<img class="alignleft  wp-image-2616" title="Rick" src="http://www.hicape.org/wp-content/uploads/2011/10/Rick-e1330754244582.jpg" alt="" width="268" height="240" />][3]吴孟霖**
 
 台湾大学电信研究所毕业/新加坡南洋理工大学交换学生，2003年前往韩国首尔参加AIESEC亚洲区年度大会，从此展开十年的旅行生活，2006年前往土耳其志工服务，写了一百多篇文章，并整理成《土耳其进行曲》一书。喜欢旅行，视旅行为生活的一部份，喜欢摄影及写作，希望用亲身经历，让更多人看到生命的故事。理工出身的他，有着文人气质的热情，至今已完成七百多篇文章，内容涵盖旅行、文化、管理、艺术以及当今社会成功人士的经验谈。
 
@@ -81,7 +81,7 @@ Syracuse University国际关系研究生。现在是在DC的Young poor professio
 
 >>>>
 
-**[<img class="alignleft  wp-image-2896" title="111" src="http://www.hicape.com/wp-content/uploads/2011/10/1113-e1332781034989.jpg" alt="" width="241" height="359" />][4]Antonio在路上**
+**[<img class="alignleft  wp-image-2896" title="111" src="http://www.hicape.org/wp-content/uploads/2011/10/1113-e1332781034989.jpg" alt="" width="241" height="359" />][4]Antonio在路上**
 
 香港中文大学硕士，Na+<span style="font-family: 宋体;">创办者，环球航海，旅居游学</span><span style="font-family: Helvetica;">17</span><span style="font-family: 宋体;">国。</span>
 
@@ -97,7 +97,7 @@ Syracuse University国际关系研究生。现在是在DC的Young poor professio
 
 >>>>>
 
-[<img class="wp-image-3670 alignleft" title="11" src="http://www.hicape.com/wp-content/uploads/2011/10/1114.jpg" alt="" width="235" height="280" />][5]
+[<img class="wp-image-3670 alignleft" title="11" src="http://www.hicape.org/wp-content/uploads/2011/10/1114.jpg" alt="" width="235" height="280" />][5]
 
 **董弈**
 
@@ -115,7 +115,7 @@ Syracuse University国际关系研究生。现在是在DC的Young poor professio
 
 >>>>>
 
-**[<img class="alignleft  wp-image-4104" title="p_large_H5MX_577f00000d2b1262" src="http://www.hicape.com/wp-content/uploads/2011/10/p_large_H5MX_577f00000d2b12621.jpg" alt="" width="282" height="188" srcset="http://hicape.com/wp-content/uploads/2011/10/p_large_H5MX_577f00000d2b12621.jpg 720w, http://hicape.com/wp-content/uploads/2011/10/p_large_H5MX_577f00000d2b12621-300x199.jpg 300w" sizes="(max-width: 282px) 100vw, 282px" />][6]La Isla Bonita**
+**[<img class="alignleft  wp-image-4104" title="p_large_H5MX_577f00000d2b1262" src="http://www.hicape.org/wp-content/uploads/2011/10/p_large_H5MX_577f00000d2b12621.jpg" alt="" width="282" height="188" srcset="http://hicape.org/wp-content/uploads/2011/10/p_large_H5MX_577f00000d2b12621.jpg 720w, http://hicape.org/wp-content/uploads/2011/10/p_large_H5MX_577f00000d2b12621-300x199.jpg 300w" sizes="(max-width: 282px) 100vw, 282px" />][6]La Isla Bonita**
 
 现为美国卡内基梅隆大学公共政策与管理专业的研究生。热衷于国际发展（International Development )事业，相信技术与知识能够改变世界上很多人的命运。<wbr />希望在有生之年能够创办自己的NGO，<wbr />并拥有自己的国际发展基金会。
 
@@ -129,7 +129,7 @@ Syracuse University国际关系研究生。现在是在DC的Young poor professio
 
 >>>>>
 
-[<img class="alignleft  wp-image-4146" title="wenying" src="http://www.hicape.com/wp-content/uploads/2011/10/wenying.jpg" alt="" width="230" height="317" srcset="http://hicape.com/wp-content/uploads/2011/10/wenying.jpg 500w, http://hicape.com/wp-content/uploads/2011/10/wenying-218x300.jpg 218w" sizes="(max-width: 230px) 100vw, 230px" />][7]
+[<img class="alignleft  wp-image-4146" title="wenying" src="http://www.hicape.org/wp-content/uploads/2011/10/wenying.jpg" alt="" width="230" height="317" srcset="http://hicape.org/wp-content/uploads/2011/10/wenying.jpg 500w, http://hicape.org/wp-content/uploads/2011/10/wenying-218x300.jpg 218w" sizes="(max-width: 230px) 100vw, 230px" />][7]
 
 **潘文颖**
 
@@ -155,14 +155,14 @@ Syracuse University国际关系研究生。现在是在DC的Young poor professio
   >>>>>
 </p>
 
-若想申请成为专栏作者，请<span style="color: #ff0000;"><strong><span style="color: #ff0000;"><a href="http:// hicape.com/apply-column/" target="_blank">点击申请</a></span></strong></span>
+若想申请成为专栏作者，请<span style="color: #ff0000;"><strong><span style="color: #ff0000;"><a href="http:// hicape.org/apply-column/" target="_blank">点击申请</a></span></strong></span>
 
 >>>>>
 
- [1]: http://www.hicape.com/wp-content/uploads/2011/10/21.jpg
- [2]: http://www.hicape.com/wp-content/uploads/2011/10/1111.jpg
- [3]: http://www.hicape.com/wp-content/uploads/2011/10/Rick.jpg
- [4]: http://www.hicape.com/wp-content/uploads/2011/10/1113.jpg
- [5]: http://www.hicape.com/wp-content/uploads/2011/10/1114.jpg
- [6]: http://www.hicape.com/wp-content/uploads/2011/10/p_large_H5MX_577f00000d2b12621.jpg
- [7]: http://www.hicape.com/wp-content/uploads/2011/10/wenying.jpg
+ [1]: http://www.hicape.org/wp-content/uploads/2011/10/21.jpg
+ [2]: http://www.hicape.org/wp-content/uploads/2011/10/1111.jpg
+ [3]: http://www.hicape.org/wp-content/uploads/2011/10/Rick.jpg
+ [4]: http://www.hicape.org/wp-content/uploads/2011/10/1113.jpg
+ [5]: http://www.hicape.org/wp-content/uploads/2011/10/1114.jpg
+ [6]: http://www.hicape.org/wp-content/uploads/2011/10/p_large_H5MX_577f00000d2b12621.jpg
+ [7]: http://www.hicape.org/wp-content/uploads/2011/10/wenying.jpg
