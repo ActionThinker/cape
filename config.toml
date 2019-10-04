@@ -1,4 +1,4 @@
-baseURL = "http://www.hicape.com"
+baseURL = "http://www.hicape.org"
 languageCode = "zh-CN"
 title = "CAPE|全球青年实践网络"
 publishdir = "docs"
@@ -19,7 +19,7 @@ summaryLength = 240
   [[menu.main]]
     identifier = "about"
     name = "缘起"
-    url = "http://www.hicape.com/why"
+    url = "http://www.hicape.org/why"
     weight = 3
     
 
@@ -33,10 +33,7 @@ summaryLength = 240
   title = "ActionThinker "
   name = "ActionThinker"
   url = "https://actionthinker.com/"
-[[params.links]]
-  title = "手艺人赵鹏 "
-  name = "手艺人赵鹏"
-  url = "https://zhaopeng.me"
+
 
 
 [params.cc]

@@ -9,7 +9,7 @@ posturl_add_url:
 ---
 小石 ：<a href="http://www.simple-education.org/archives/35">积极参与社会实践和改良，正在成为新一代青年的重要特点</a>  
 
-作为今年暑假刚由几个青年和学生刚刚发起的学生组织，“<a href="https://web.archive.org/web/20111110194212/http://capechina.org/">Capechina – 全球青年实践网络</a>”还处在一个摸索的过程中。
+作为今年暑假刚由几个青年和学生刚刚发起的学生组织，“<a href="https://web.archive.org/web/20111110194212/http://hicape.org/">Capechina – 全球青年实践网络</a>”还处在一个摸索的过程中。
 
 最初成员主要是参与或者参与过“<a href="https://web.archive.org/web/20111110194212/http://http//www.aiesec.cn">AIESEC – 国际实习生交换组织</a>” 的成员，讨论也首先是AIESEC对当代中国青年学生和社会的价值，以及AIESEC目前在中国实践中遇到的问题，进而讨论到“AIESEC本土化”的问题。
   
@@ -88,7 +88,7 @@ CAPEx测试计划后来增加了CAPExNYC和CAPExSG两个聚点。整个计划定
  [2]: http://capexboston.com/?p=1
  [3]: http://capexboston.com/
  [4]: http://capexboston.com/?p=5
- [5]: http://hicape.com/category/cape-meetup/
+ [5]: http://hicape.org/category/cape-meetup/
  [6]: http://www.xinsinian.com/development/purposeparty/
  [7]: http://www.purposemeetup.com/
  [8]: http://swordi.com/wp-content/uploads/2013/06/cape1st_i-wish.png

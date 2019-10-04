@@ -45,7 +45,7 @@ CAPE，致力于成为一个青年发展的社区分享平台，让年轻人们�
 
 &nbsp;
 
-查看当前CAPE专栏作者列表，<a href="http://www.hicape.com/columnist/" target="_blank">点击</a>
+查看当前CAPE专栏作者列表，<a href="http://www.hicape.org/columnist/" target="_blank">点击</a>
 
 >>>>>>>>>>>>>>>>>>>>>
 
