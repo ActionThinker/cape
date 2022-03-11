@@ -1,4 +1,4 @@
-baseURL = "http://www.hicape.org"
+baseURL = "http://www.capechina.org"
 languageCode = "zh-CN"
 title = "CAPE|全球青年实践网络"
 publishdir = "docs"
@@ -19,7 +19,7 @@ summaryLength = 240
   [[menu.main]]
     identifier = "about"
     name = "缘起"
-    url = "http://www.hicape.org/why"
+    url = "http://www.capechina.org/why"
     weight = 3
     
 
