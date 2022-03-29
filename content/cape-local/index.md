@@ -32,7 +32,7 @@ CAPE Local（城市小站）计划,是CAPE推出的一项开放倡议计划和�
 </h3>
 
 
-为了帮助本地化行动者从零开始推动开展本地活动及项目计划，打破单打独斗的局面，今年2月份，我们首次推出CAPE Local Caper这一角色，同时在全国范围内发起招募计划（<a href="http://hicape.com/2013/02/local-caper/" target="_blank">Local Caper：CAPE的本地支持者</a>），一共招募了十几名Local Caper和CAPE团队一同摸索本地化行动的支持模式。
+为了帮助本地化行动者从零开始推动开展本地活动及项目计划，打破单打独斗的局面，今年2月份，我们首次推出CAPE Local Caper这一角色，同时在全国范围内发起招募计划（<a href="http://capechina.org/2013/02/local-caper/" target="_blank">Local Caper：CAPE的本地支持者</a>），一共招募了十几名Local Caper和CAPE团队一同摸索本地化行动的支持模式。
 
 在北京、上海、广州、深圳、香港、西安、杭州、太原、成都等地的Local Caper先后自发组织了接近30场本地化主题分享交流活动，初步实践了CAPE Local的计划和社会化网络的构建。其中西安、深圳筹建了较为完善的团队，实现每月一次固定的本地化活动，而香港除了筹建了团队以外，还完成暑期7个城市的交流活动及特色项目“港漂种子”计划的落地。
 

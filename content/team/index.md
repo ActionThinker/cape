@@ -44,11 +44,7 @@ OliverDing
 
 西安小站负责人       南昊
 
-程嘉程
-
 深圳小站负责人        林志熊  Arlu
-
-新加坡站负责人
 
 成都站负责人            刘梓舟
 
@@ -56,16 +52,3 @@ OliverDing
 
 &nbsp;
 
-其他地区联络人
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

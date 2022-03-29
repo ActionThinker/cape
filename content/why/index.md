@@ -20,7 +20,7 @@ posturl_add_url:
   发展
 </h2>
 
-经过一次次反思和创想以后，我写了一些博文（[世界之美 其实触手可及][1] ），而后博得网友的支持和呼应，先是广佳热心的响应（<a title="Permalink to 旅行本身，已是意义" href="http://hicape.org/2011/07/the-meaning-of-journey/" rel="bookmark">旅行本身，已是意义</a> ），然后guangjia拉来了他表妹sizzy（<a title="Permalink to 旅行本身，已是意义" href="http://hicape.org/2011/07/the-meaning-of-journey/" rel="bookmark">旅行本身，已是意义</a> ），还有Erica（ <a title="Permalink to 自己之外，有一个很大的世界" href="http://hicape.org/2011/07/there-is-a-big-world-near-us/" rel="bookmark">自己之外，有一个很大的世界</a> ）等，一群群的青年朋友发现我们，加入我们；进而我们开始考虑约稿、投稿人等问题，以及从微博，到blog、到wiki，到bbs等，构建一个青年发展社区，希望更真实地把这样的一群人连接起来。我们首先做的事情，或者切入点是从鼓励海外实践者分享他们的故事开始，形成一个行者分享网络，没过多久，陈露去了黄油青年会议，TEDxNanjing参与分享，后来接受青年志，Map杂志采访，也得到很多国内青年组织的关注和合作的意向。 
+经过一次次反思和创想以后，我写了一些博文（[世界之美 其实触手可及][1] ），而后博得网友的支持和呼应，先是广佳热心的响应（<a title="Permalink to 旅行本身，已是意义" href="http://capechina.org/2011/07/the-meaning-of-journey/" rel="bookmark">旅行本身，已是意义</a> ），然后guangjia拉来了他表妹sizzy（<a title="Permalink to 旅行本身，已是意义" href="http://capechina.org/2011/07/the-meaning-of-journey/" rel="bookmark">旅行本身，已是意义</a> ），还有Erica（ <a title="Permalink to 自己之外，有一个很大的世界" href="http://capechina.org/2011/07/there-is-a-big-world-near-us/" rel="bookmark">自己之外，有一个很大的世界</a> ）等，一群群的青年朋友发现我们，加入我们；进而我们开始考虑约稿、投稿人等问题，以及从微博，到blog、到wiki，到bbs等，构建一个青年发展社区，希望更真实地把这样的一群人连接起来。我们首先做的事情，或者切入点是从鼓励海外实践者分享他们的故事开始，形成一个行者分享网络，没过多久，陈露去了黄油青年会议，TEDxNanjing参与分享，后来接受青年志，Map杂志采访，也得到很多国内青年组织的关注和合作的意向。 
  
 进而有进一步观察和思考， 观察青年和社会互动中的一些基本问题，或者说**青年参与社会实践中的一些基本问题，仍受到各种社会观念的左右，尽管有质疑，但仍难以用自己声音表达出来，深 处在一个传统社会向网络社会转化的时期，开放的观念和封闭的观念，交织在一起，青年飘摇的浮萍，但也希望能把根扎到泥土里，像飘摇的浮萍，同时，青年也在 全球化和本土的矛盾中挣扎，视野的开拓，并没有完全消除我们内心的困惑，实践仍然是这一代人许多人的心声，即逐步来阐述“全球青年实践网络”的意义，从简 单的服务，到理念的升华，观察和反思的过程，既升华的过程。**当然这只是偶尔的遐想，做事情不能老想这些，即进一步肯定了做这个事的价值，然后就转向具体的 操作，然后就创办了网站。
 
@@ -58,5 +58,5 @@ posturl_add_url:
 2014年 12月 陈露在TEDxNingbo 年度大会，首次提出《让&#8221;青年发展&#8221;成为社会议题》
 
 
- [1]: http://hicape.org/2011/07/its-easy-to-touch-the-world/
+ [1]: http://capechina.org/2011/07/its-easy-to-touch-the-world/
 
