@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.capechina.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CAPE on CAPE|全球青年实践网络</title>
-    <link>http://www.hicape.org/tags/cape/</link>
+    <link>http://www.capechina.org/tags/cape/</link>
     <description>Recent content in CAPE on CAPE|全球青年实践网络</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
