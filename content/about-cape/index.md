@@ -76,5 +76,5 @@ CAPE邀请在世界各地的青年与学生，当中国青年与学子们的耳�
 
 ==>>><span style="color: #ff0000;"><strong><a href="mailto:capechina2011@gmail.com"><span style="color: #ff0000;">马上投稿</span></a></strong></span> (字数不少于1000字，邮件请注明投稿栏目，请用正文投稿，同时每篇文章至少附上一张清晰的配图，注明您的姓名和微博、微信等信息）。
 
- [1]: http://www.hicape.org
+ [1]: http://www.capechina.org
 

@@ -14,3 +14,4 @@ duoshuo_thread_id:
 <div style="margin-bottom:5px">
   <strong> <a href="//www.slideshare.net/actionthinker/cape-hi-capecomintroducaition" title="CAPE (hi cape.com)introducaition" target="_blank">CAPE (hi cape.com)introducaition</a> </strong> from <strong><a href="//www.slideshare.net/actionthinker" target="_blank">actionthinker</a></strong>
 </div>
+
