@@ -52,7 +52,7 @@ tags:
 
 &nbsp;
 
-本文链接：****[ http:// hicape.com/2011/08/sandy-work-at-ngo][1]  
+本文链接：****[ http:// capechina.org/2011/08/sandy-work-at-ngo][1]  
 欢迎大家关注我的微博[@珊迪爱莫莫][2]，近期将会开始和大家进行交流。
 
 阅读更多Sandy在肯尼亚的经历：[双足丈量大地–Sandy在肯尼亚][3]
@@ -63,8 +63,9 @@ tags:
 <http://feed.feedsky.com/gypn>  
 欢迎发表评论，参与“全球青年实践网络”的讨论，或者在[新浪微博][5]上面关注我们。
 
- [1]: http:// hicape.com/2011/08/sandy-thanks/
+ [1]: http://capechina.org/2011/08/sandy-thanks/
  [2]: http://weibo.com/huiwei93113
- [3]: http:// hicape.com/2011/07/sandy-in-kenya/
+ [3]: http://capechina.org/2011/07/sandy-in-kenya/
  [4]: http://feed.feedsky.com/gypn
  [5]: http://weibo.com/gypn
+

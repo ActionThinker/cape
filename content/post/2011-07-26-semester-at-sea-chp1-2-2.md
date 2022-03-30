@@ -450,12 +450,12 @@ categories:
 </p>
 
 <p align="left">
-  本文地址：<strong></strong><a href="http:// hicape.com/2011/07/semester-at-sea-chp1-2-2/"> http:// hicape.com/2011/07/semester-at-sea-chp1-2-2/</a>
+  本文地址：<strong></strong><a href="http:// capechina.org/2011/07/semester-at-sea-chp1-2-2/"> http:// hicape.com/2011/07/semester-at-sea-chp1-2-2/</a>
 </p>
 
 欢迎大家关注我的微博@<a href="http://weibo.com/semesteratsea">轩的小航海时代</a>，近期将会开始和大家进行交流。
 
 
-阅读更多赵轩<a href="http:// hicape.com/2011/07/diaries-zhaoxuan/">《追寻生命之光——环球游学，那些并不遥远的故事》
+阅读更多赵轩<a href="http:// capechina.org/2011/07/diaries-zhaoxuan/">《追寻生命之光——环球游学，那些并不遥远的故事》
 
 

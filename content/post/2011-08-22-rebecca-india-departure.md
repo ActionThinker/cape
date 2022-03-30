@@ -40,8 +40,6 @@ tags:
 
 &nbsp;
 
-本文链接：[http:// hicape.com/2011/08/rebecca-india-departure/][1]  
-欢迎大家关注Rebecca的微博**[@海绵毛毛胖大星][2] **。
 
 阅读更多Rebecca的经历：[Incredible India &#8212; 行者无疆，梦开始的地方][3]
 
@@ -51,8 +49,9 @@ tags:
 
 &nbsp;
 
- [1]: http:// hicape.com/2011/08/sandy-muth/
+ [1]: http://capechina.org/2011/08/sandy-muth/
  [2]: http://weibo.com/rebeccawanyi
  [3]: hicape.com/2011/08/rebecca-india/
  [4]: http://feed.feedsky.com/gypn
  [5]: http://weibo.com/gypn
+

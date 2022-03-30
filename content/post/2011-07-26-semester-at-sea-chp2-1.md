@@ -62,7 +62,7 @@ categories:
 本文链接：<http:// hicape.com/2011/07/semester-at-sea-chp2-1/>  
 欢迎大家关注我的微博@[轩的小航海时代][1]，近期将会开始和大家进行交流。
 
-阅读更多赵轩[《追寻生命之光——环球游学，那些并不遥远的故事》](http:// hicape.com/2011/07/diaries-zhaoxuan/)
+阅读更多赵轩[《追寻生命之光——环球游学，那些并不遥远的故事》](http:// capechina.org/2011/07/diaries-zhaoxuan/)
 
  [1]: http://weibo.com/semesteratsea
 

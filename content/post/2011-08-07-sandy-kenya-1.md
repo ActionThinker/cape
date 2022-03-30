@@ -39,10 +39,10 @@ tags:
 
 但是现在都开始适应了。荷兰的帅哥。安静的捷克人。热情重口音希腊女。开始觉得荷兰的男生很高大很帅，不敢和他说话。他的蓝色眼睛很好看。他老是说一些比较搞笑的话。哈。后来，是因为我在office开会的时候转笔。。。他会觉得很神奇，他怎么都学不会。当时我不知道这样的举动会让他觉得很神奇。
 
-<img class="alignleft size-thumbnail wp-image-1014" title="1" src="http:// hicape.com/wp-content/uploads/2011/08/1-290x290.jpg" alt="" width="290" height="290" srcset="http://hicape.com/wp-content/uploads/2011/08/1-290x290.jpg 290w, http://hicape.com/wp-content/uploads/2011/08/1-50x50.jpg 50w" sizes="(max-width: 290px) 100vw, 290px" />
+<img class="alignleft size-thumbnail wp-image-1014" title="1" src="http:// capechina.org/wp-content/uploads/2011/08/1-290x290.jpg" alt="" width="290" height="290" srcset="http://capechina.org/wp-content/uploads/2011/08/1-290x290.jpg 290w, http://capechina.org/wp-content/uploads/2011/08/1-50x50.jpg 50w" sizes="(max-width: 290px) 100vw, 290px" />
 （她身上有种淡定美。读完了大一。）
 
-那个我在上课无聊的时候习得的非凡能力成为我们开始聊天的契机。哈哈。后来<img class="alignleft size-thumbnail wp-image-1015" title="2" src="http:// hicape.com/wp-content/uploads/2011/08/21-290x290.jpg" alt="" width="290" height="290" srcset="http://hicape.com/wp-content/uploads/2011/08/21-290x290.jpg 290w, http://hicape.com/wp-content/uploads/2011/08/21-50x50.jpg 50w" sizes="(max-width: 290px) 100vw, 290px" />
+那个我在上课无聊的时候习得的非凡能力成为我们开始聊天的契机。哈哈。后来<img class="alignleft size-thumbnail wp-image-1015" title="2" src="http://www.capechina.org/wp-content/uploads/2011/08/21-290x290.jpg" alt="" width="290" height="290" srcset="http://www.capechina.org/wp-content/uploads/2011/08/21-290x290.jpg 290w, http://capechina.org/wp-content/uploads/2011/08/21-50x50.jpg 50w" sizes="(max-width: 290px) 100vw, 290px" />
 晚上他一直问我中文怎么说good night.他说晚安的时候很可爱。哈哈。那种发音还有坚持不懈的精神真的非常好玩。他放了SYSU OGX 的roll call的那首歌。
 
 晚上大家从蒙巴萨回来，开始有实习生请我吃巧克力，因为做matatu,和不同的人一起坐在一起，所以聊开了。因为有人赞我的卫衣好看，我得瑟之余就多了一份信心。还有就是拿着那真空包装的茶叶和她们说功夫茶，说到大家觉得那个东西真心有那么神奇的。哈哈。也和之前有点不爽的捷克女生聊她match到这里的一些东西，从中国人扎堆到讲英文的心理，再到AIESEC的一些活动，OGX的一些技巧。后来出乎意料她竟然说，I like your shirt~~哈哈。是不是女生被人称赞衣服好看就会消除敌意呢。接着被各种实习生加facebook，各种被问你真的十八岁吗。= =总算不错。大家在外面看电影，我在这里和alex聊关于项目的事情。总之都好了，发现屋子里面的人，真的很可爱。
@@ -53,7 +53,7 @@ tags:
 
 晚安。想起荷兰的帅哥的发音。哈哈。
 
-<img class="alignleft size-thumbnail wp-image-1016" title="3" src="http:// hicape.com/wp-content/uploads/2011/08/3-290x290.jpg" alt="" width="290" height="290" srcset="http://hicape.com/wp-content/uploads/2011/08/3-290x290.jpg 290w, http://hicape.com/wp-content/uploads/2011/08/3-50x50.jpg 50w" sizes="(max-width: 290px) 100vw, 290px" />
+<img class="alignleft size-thumbnail wp-image-1016" title="3" src="http:// hicape.com/wp-content/uploads/2011/08/3-290x290.jpg" alt="" width="290" height="290" srcset="http://capechina.org/wp-content/uploads/2011/08/3-290x290.jpg 290w, http://capechina.org/wp-content/uploads/2011/08/3-50x50.jpg 50w" sizes="(max-width: 290px) 100vw, 290px" />
 （Daan&#8212;荷兰一个很好玩的人~~hah。他的手势是1，不是2~很聪明啊~！）
 
 

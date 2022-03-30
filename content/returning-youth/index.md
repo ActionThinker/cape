@@ -37,4 +37,5 @@ Danny7年前随老婆来到了她的家乡浙江舟山定居下来。从大城�
 
 如果您对返乡青年议题感兴趣，欢迎继续向我们投稿，**[点击专题征稿][1]****，了解详情。**
 
- [1]: http://hicape.com/2014/01/returning-youth/
+ [1]: http://capechina.org/2014/01/returning-youth/
+

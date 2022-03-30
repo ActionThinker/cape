@@ -23,7 +23,7 @@ Founder of  [Swordi Studio][2]
 
 信息架构师、品牌咨询顾问和设计师，TedtoChina项目董事会成员。自2001年起他拥有超过六年以上的融资活动相关事务经验，包括公开上市 和风险投资。同时，他也致力于探索社会化媒体在非盈利领域和社会创新方面应用。在2004年，Oliver创建作为 业余时间品牌的个人工作室Swordi Studio（剑扬互动），为非盈利项目提供营销传播方面的专业服务，包括标志设计、品牌识别领域的战略咨询，以及社会化媒体营销。
 
-\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___
+\___\___\___\___\___\___\___\___
 
 &nbsp;
 
@@ -53,6 +53,7 @@ Founder of  [Swordi Studio][2]
 
  [1]: http://simple-education.org/
  [2]: http://en.swordi.com/
- [3]: http:// hicape.com/about-us/stories/its-easy-to-touch-the-world/
- [4]: http:// hicape.com/about-us/stories/the-meaning-of-journey/
- [5]: http:// hicape.com/about-us/stories/on-the-way/
+ [3]: http:// capechina.org/about-us/stories/its-easy-to-touch-the-world/
+ [4]: http:// capechina.org/about-us/stories/the-meaning-of-journey/
+ [5]: http:// capechina.org/about-us/stories/on-the-way/
+

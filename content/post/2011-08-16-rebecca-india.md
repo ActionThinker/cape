@@ -77,7 +77,7 @@ tags:
 &nbsp;
 
  [1]: http://weibo.com/rebeccawanyi
- [2]: http:// hicape.com/2011/08/rebecca-india-departure/ "起航篇"
+ [2]: http://capechina.org/2011/08/rebecca-india-departure/ "起航篇"
  [3]: http://www.capechina.org/2011/09/incredible-india-2/
  [4]: http://www.capechina.org/2011/09/24-hours-in-mumbai-adventures/
  [5]: http://www.capechina.org/2011/09/railway-station-meet-by-chance/ "火车站的不期而遇"
@@ -87,3 +87,4 @@ tags:
  [9]: http://www.capechina.org/2011/09/dada-goodbye-india/
  [10]: http://feed.feedsky.com/gypn
  [11]: http://weibo.com/gypn
+

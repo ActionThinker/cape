@@ -48,8 +48,7 @@ by Sandy
 
 &nbsp;
 
-本文链接：**** [http:// hicape.com/2011/08/sandy-thanks/][1]  
-欢迎大家关注我的微博[@珊迪爱莫莫][2]，近期将会开始和大家进行交流。
+
 
 阅读更多Sandy在肯尼亚的经历：[双足丈量大地–Sandy在肯尼亚][3]
 
@@ -64,3 +63,4 @@ by Sandy
  [3]: ../2011/07/sandy-in-kenya/
  [4]: http://feed.feedsky.com/gypn
  [5]: http://weibo.com/gypn
+

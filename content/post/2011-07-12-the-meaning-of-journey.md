@@ -57,6 +57,6 @@ tags:
 
 新浪微博：[@沙发客徐大][2]
 
- [1]: http:// hicape.com/wp-content/uploads/2011/07/3.jpg
+ [1]: http:// capechina.org/wp-content/uploads/2011/07/3.jpg
  [2]: http://www.weibo.com/guangjia
 

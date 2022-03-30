@@ -76,7 +76,7 @@ tags:
   春光好，陌上花开，君可缓缓归矣！
 </p>
 
-阅读更多赵轩[《追寻生命之光——环球游学，那些并不遥远的故事》](http:// hicape.com/2011/07/diaries-zhaoxuan/)
+阅读更多赵轩[《追寻生命之光——环球游学，那些并不遥远的故事》](http:// capechina.org/2011/07/diaries-zhaoxuan/)
 
  [2]: http://weibo.com/semesteratsea
 

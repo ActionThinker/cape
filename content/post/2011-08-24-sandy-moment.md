@@ -32,16 +32,8 @@ tags:
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-本文链接：[http://www.capechina.org/2011/08/sandy-moment/][1]  
-欢迎大家关注我的微博[@珊迪爱莫莫][2]，近期将会开始和大家进行交流。
-
 阅读更多Sandy在肯尼亚的经历：[双足丈量大地–Sandy在肯尼亚][3]
 
-&nbsp;
 
 您可以通过RSS阅读器[订阅][4]“全球青年实践网络”的文章：  
 <http://feed.feedsky.com/gypn>  
@@ -49,6 +41,7 @@ tags:
 
  [1]: http://www.capechina.org/2011/08/sandy-moment/ "当下即永恒"
  [2]: http://weibo.com/huiwei93113
- [3]: http:// hicape.com/2011/07/sandy-in-kenya/
+ [3]: http://capechina.org/2011/07/sandy-in-kenya/
  [4]: http://feed.feedsky.com/gypn
  [5]: http://weibo.com/gypn
+

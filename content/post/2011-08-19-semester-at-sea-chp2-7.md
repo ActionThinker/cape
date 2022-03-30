@@ -59,7 +59,7 @@ Luis：最憨厚。超级憨傻的拉丁裔美国人，母语西班牙语。整�
 
 Jenny：最善良可爱。超级可爱而热心的美国小姑娘，住在南加州，在东北部上学。和我们船上一个叫做Anna的委内瑞拉女生长得几乎一样，因此总是被我们混淆。她的一个朋友Jason很喜欢她，在才艺表演那天弹唱了一首为她而写的歌，我们都看好他们发展出一段源于SAS的爱情。
 
-[<img class="aligncenter size-medium wp-image-1212" title="1" src="http:// hicape.com/wp-content/uploads/2011/08/15-300x94.jpg" alt="" width="508" height="158" srcset="http://hicape.com/wp-content/uploads/2011/08/15-300x94.jpg 300w, http://hicape.com/wp-content/uploads/2011/08/15.jpg 596w" sizes="(max-width: 508px) 100vw, 508px" />][1]
+[<img class="aligncenter size-medium wp-image-1212" title="1" src="http://capechina.org/wp-content/uploads/2011/08/15-300x94.jpg" alt="" width="508" height="158" srcset="http://capechina.org/wp-content/uploads/2011/08/15-300x94.jpg 300w, http://capechina.org/wp-content/uploads/2011/08/15.jpg 596w" sizes="(max-width: 508px) 100vw, 508px" />][1]
 
 Ross：最甜美笑容男。长发的时候像笑容甜美版的斯内普，笑容腼腆可爱，土生土长的德克萨斯人，生物专业，大三了还对申请Ph.D.没概念——生物专业是每次我遇见就忍不住一边momo一边幸灾乐祸的专业……伤不起啊！
 
@@ -121,7 +121,7 @@ Paul：最中国友好。我船上最好的长辈朋友之一，中国石化Sino
 
 John：最魅力大叔。船上的钢琴师，作曲家，在好莱坞教钢琴，为电影配乐，也是SAS校歌的作曲者。琴法华丽，在船上为Global Studies配乐，组织合唱队，尤其是为Freedom In Creation写的旋律才华横溢。在加纳陪我捡可可豆，也曾录下我弹的曲子，为我写过一首钢琴曲。与妻子Randi一起开车载我从圣地亚哥到洛杉矶，他们在洛杉矶的房子每一个细节都可爱极了，临别把花园里的白玫瑰剪下来送我。
 
-[<img class="aligncenter size-full wp-image-1213" title="2" src="http:// hicape.com/wp-content/uploads/2011/08/23.jpg" alt="" width="585" height="171" srcset="http://hicape.com/wp-content/uploads/2011/08/23.jpg 585w, http://hicape.com/wp-content/uploads/2011/08/23-300x87.jpg 300w" sizes="(max-width: 585px) 100vw, 585px" />][2]
+[<img class="aligncenter size-full wp-image-1213" title="2" src="http://capechina.org/wp-content/uploads/2011/08/23.jpg" alt="" width="585" height="171" srcset="http://capechina.org/wp-content/uploads/2011/08/23.jpg 585w, http://capechina.org/wp-content/uploads/2011/08/23-300x87.jpg 300w" sizes="(max-width: 585px) 100vw, 585px" />][2]
 
 Andrew：最公益青年。Freedom in Creation创始人之一，通过鼓励乌干达地区的孩子们进行艺术创作，将绘画作品出售来筹集钱款，在当地打井解决饮用水困难。在船上开展了数个Freedom In Creation分支，在南非下船回到乌干达。邀请我组织中国学生在Social Service晚会上合唱中国歌曲——我们合唱了《明天会更好》。
 
@@ -138,7 +138,7 @@ Bill：最幽默医生。人称Doctor Bill，可见是医生。全科医生，�
 Fu Teng：唯一中国教师。国际政治专业，在船上教授中美关系等课，与中国学生圈关系很好，因为英文名为Margaret，被我们戏称为“马老师”。即将结束在BU的任教，在麦肯锡开始崭新的咨询工作生涯。同时不定期发邮件与我们分享最近的信息和机遇，鼓励我们成为文化的桥梁。
 
 <p align="center">
-  <a href="http:// hicape.com/wp-content/uploads/2011/08/2.jpg"><img class="aligncenter size-medium wp-image-986" title="2" src="http:// hicape.com/wp-content/uploads/2011/08/2-300x187.jpg" alt="" width="353" height="220" srcset="http://hicape.com/wp-content/uploads/2011/08/2-300x187.jpg 300w, http://hicape.com/wp-content/uploads/2011/08/2.jpg 760w" sizes="(max-width: 353px) 100vw, 353px" /></a>
+  <a href="http://capechina.org/wp-content/uploads/2011/08/2.jpg"><img class="aligncenter size-medium wp-image-986" title="2" src="http://capechina.org/wp-content/uploads/2011/08/2-300x187.jpg" alt="" width="353" height="220" srcset="http://capechina.org/wp-content/uploads/2011/08/2-300x187.jpg 300w, http://capechina.org/wp-content/uploads/2011/08/2.jpg 760w" sizes="(max-width: 353px) 100vw, 353px" /></a>
 </p>
 
 此外，朋友当然还有很多，但以上这些，这就是给我印象最深刻的一些SASers。
@@ -147,21 +147,19 @@ Fu Teng：唯一中国教师。国际政治专业，在船上教授中美关系�
 
 &nbsp;
 
-本文链接：[http:// hicape.com/2011/08/semester-at-sea-chp2-7/  
-][3] 欢迎大家关注我的微博@[轩的小航海时代][4]，近期将会开始和大家进行交流。
+
 
 阅读更多赵轩[《追寻生命之光——环球游学，那些并不遥远的故事》][5]
 
 &nbsp;
-
-您可以通过RSS阅读器[订阅][6]“全球青年实践网络”的文章：  
-<http://feed.feedsky.com/gypn>  
+ 
 欢迎发表评论，参与“全球青年实践网络”的讨论，或者在[新浪微博][7]上面关注我们。
 
- [1]: http:// hicape.com/wp-content/uploads/2011/08/15.jpg
- [2]: http:// hicape.com/wp-content/uploads/2011/08/23.jpg
+ [1]: http://capechina.org/wp-content/uploads/2011/08/15.jpg
+ [2]: http://capechina.org/wp-content/uploads/2011/08/23.jpg
  [3]: ../2011/08/semester-at-sea-chp2-6/
  [4]: http://weibo.com/semesteratsea
  [5]: ../2011/07/diaries-zhaoxuan/
  [6]: http://feed.feedsky.com/gypn
- [7]: http://weibo.com/gypn
+
+

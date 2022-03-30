@@ -73,5 +73,5 @@ Flickr专属标签<span style="color: #ff0000;"><strong>#CAPEChina</strong></spa
  [1]: http://weibo.com/capechina
  [2]: http://u.youku.com/user_show/uid_全球青年实践网络
  [3]: http://www.flickr.com/photos/capechina
- [4]: http://www.hicape.com/wp-content/uploads/2012/08/getqrcode-e1345389786143.jpg
+ [4]: http://www.capechina.org/wp-content/uploads/2012/08/getqrcode-e1345389786143.jpg
 

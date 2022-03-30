@@ -61,9 +61,7 @@ Five Minutes Film Festival @ SAS 2011 Spring，SAS历史上第一个电影展，
 这艘船上，极少有来自东西海岸名校的学生。但不是又如何？他们一样才华横溢。不仅如此，他们还有温暖的良心，卑微地贴近大地，诚挚地梦想，执着地活着，热忱地爱。是对人性的培养，灵魂的启迪，而不是对于narrow career的训练，才是教育应该带给我们的东西。
 
 
-本文链接：[http:// hicape.com/2011/08/semester-at-sea-chp2-3/](http:// hicape.com/2011/08/semester-at-sea-chp2-3/), 欢迎大家关注我的微博@[轩的小航海时代][2]，近期将会开始和大家进行交流。
-
-阅读更多赵轩[《追寻生命之光——环球游学，那些并不遥远的故事》](http:// hicape.com/2011/07/diaries-zhaoxuan/)
+阅读更多赵轩[《追寻生命之光——环球游学，那些并不遥远的故事》](http:// capechina.org/2011/07/diaries-zhaoxuan/)
 
  [2]: http://weibo.com/semesteratsea
 

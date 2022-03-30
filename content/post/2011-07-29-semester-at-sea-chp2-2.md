@@ -61,7 +61,7 @@ Semester At Sea，我准备好了。
 
 不一样的人生，我准备好了。
 
-本文链接：[http:// hicape.com/2011/07/semester-at-sea-chp2-2/](http:// hicape.com/2011/07/semester-at-sea-chp2-2/),欢迎大家关注我的微博@[轩的小航海时代][3]，近期将会开始和大家进行交流。
+
 
 阅读更多赵轩[《追寻生命之光——环球游学，那些并不遥远的故事》](http:// hicape.com/2011/07/diaries-zhaoxuan/)
 

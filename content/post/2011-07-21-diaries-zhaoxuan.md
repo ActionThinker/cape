@@ -114,41 +114,41 @@ tags:
   * [给我一首歌的时间，给我一个临别的拥抱][37]
 
 
- [1]: http://hicape.com/2011/07/semester-at-sea-chp1-1/
- [2]: http:// hicape.com/2011/07/semester-at-sea-chp1-2-2/
- [3]: http://hicape.com/2011/07/semester-at-sea-chp2-1/
- [4]: http://hicape.com/2011/07/semester-at-sea-chp2-2/
- [5]: http://hicape.com/2011/08/semester-at-sea-chp2-3
- [6]: http://hicape.com/2011/08/semester-at-sea-chp2-4/
- [7]: http://hicape.com/2011/08/semester-at-sea-chp2-5/
- [8]: http://hicape.com/2011/08/semester-at-sea-chp2-6/
+ [1]: http://capechina.org/2011/07/semester-at-sea-chp1-1/
+ [2]: http:// capechina.org/2011/07/semester-at-sea-chp1-2-2/
+ [3]: http://capechina.org/2011/07/semester-at-sea-chp2-1/
+ [4]: http://capechina.org/2011/07/semester-at-sea-chp2-2/
+ [5]: http://capechina.org/2011/08/semester-at-sea-chp2-3
+ [6]: http://capechina.org/2011/08/semester-at-sea-chp2-4/
+ [7]: http://capechina.org/2011/08/semester-at-sea-chp2-5/
+ [8]: http://capechina.org/2011/08/semester-at-sea-chp2-6/
  [9]: http://hicape.com/2011/08/semester-at-sea-chp2-7/
- [10]: http://www.hicape.com/2011/09/semester-at-sea-chp2-9/ "记我的环球之旅"
- [11]: http://www.hicape.com/2011/09/travel-log-0206-if-you-want-others-to-themselves-as-complete-people-need-their-own-as-a-complete-person-first/ "旅行日志0206：如果希望别人把自己当做完整的人，需要自己先把自己当做完整的人"
- [12]: http://www.hicape.com/2011/09/ghana-walden-no-aventure-but-nostalgia/ "加纳散记：没有艳遇，但是留恋"
- [13]: http://www.hicape.com/2011/09/travel-side-story-while-walking-side-nonsense/ "旅行番外篇：边走边看边扯淡"
- [14]: http://www.hicape.com/2011/09/south-africa-tour-wineries/ "南非葡萄酒庄之旅"
- [15]: http://www.hicape.com/2011/10/mauritius-running-account-another-good-stop-but-also-a-beautiful-day/ "毛里求斯流水账：又是美好的一站，又是美好的一天"
+ [10]: http://capechina.org/2011/09/semester-at-sea-chp2-9/ "记我的环球之旅"
+ [11]: http://capechina.org/2011/09/travel-log-0206-if-you-want-others-to-themselves-as-complete-people-need-their-own-as-a-complete-person-first/ "旅行日志0206：如果希望别人把自己当做完整的人，需要自己先把自己当做完整的人"
+ [12]: http://www.capechina.org/2011/09/ghana-walden-no-aventure-but-nostalgia/ "加纳散记：没有艳遇，但是留恋"
+ [13]: http://www.capechina.org/2011/09/travel-side-story-while-walking-side-nonsense/ "旅行番外篇：边走边看边扯淡"
+ [14]: http://www.capechina.org/2011/09/south-africa-tour-wineries/ "南非葡萄酒庄之旅"
+ [15]: http://www.capechina.org/2011/10/mauritius-running-account-another-good-stop-but-also-a-beautiful-day/ "毛里求斯流水账：又是美好的一站，又是美好的一天"
  [16]: http://www.hicape.com/2011/10/travel-interleaved-india-incredibles-please-give-me-more-light/ "旅行插叙•印度不思议：请给我更多的光"
- [17]: http://www.hicape.com/2011/10/travel-log-0310-let-me-prostrate-in-the-good-graces-of-india/ "旅行日志0310：让我匍匐在印度的石榴裙下"
- [18]: http://www.hicape.com/2011/10/1740/ "越南印象•情迷西贡"
- [19]: http://www.hicape.com/2011/10/travel-log-0115-ordinary-day-on-board/ "旅行日志0115：船上平凡的一天"
- [20]: http://www.hicape.com/2011/10/four-years-in-hangzhou-zhou-dishes-were-ready-vista-dramas/ "四年，在杭州：愿得清粥小菜，共赏柳暗花明"
+ [17]: http://www.capechina.org/2011/10/travel-log-0310-let-me-prostrate-in-the-good-graces-of-india/ "旅行日志0310：让我匍匐在印度的石榴裙下"
+ [18]: http://www.capechina.org/2011/10/1740/ "越南印象•情迷西贡"
+ [19]: http://www.capechina.org/2011/10/travel-log-0115-ordinary-day-on-board/ "旅行日志0115：船上平凡的一天"
+ [20]: http://www.capechina.org/2011/10/four-years-in-hangzhou-zhou-dishes-were-ready-vista-dramas/ "四年，在杭州：愿得清粥小菜，共赏柳暗花明"
  [21]: http://www.capechina.org/2011/10/dizzy/ "晕"
- [22]: http://www.hicape.com/2011/10/i-would-like-to-return-to-zhejiang-university-lake-riding-candle-going-to-happen-shallot-noodles/ "我愿重回浙大，骑行湖畔，秉烛夜谈，葱油拌面"
- [23]: http://www.hicape.com/2011/10/i-often-think-back-to-when-the-zhejiang-university-i-knelt-down-in-front-of-zijins-the-front-of-this-garden-homage-although-to-a-certain-time-to-draw-up-but-can-think-about-how-many-have-been/ "旅行日记0206：非洲大陆前夜•不要为了未来的美好，牺牲当下的美好"
- [24]: http://www.hicape.com/2011/10/travel-log-0211-across-the-equator-of-the-day-you-look-at-the-light-beam/ "旅行日志0211：穿越赤道之日，你瞧那束光芒"
- [25]: http://www.hicape.com/2011/10/travel-diary-0212-the-best-standard-is-the-measure-of-travel-friends-rather-than-the-mileage/ "旅行日记0212：衡量旅行的最好标准在于朋友，而不在于里程"
+ [22]: http://www.capechina.org/2011/10/i-would-like-to-return-to-zhejiang-university-lake-riding-candle-going-to-happen-shallot-noodles/ "我愿重回浙大，骑行湖畔，秉烛夜谈，葱油拌面"
+ [23]: http://www.capechina.org/2011/10/i-often-think-back-to-when-the-zhejiang-university-i-knelt-down-in-front-of-zijins-the-front-of-this-garden-homage-although-to-a-certain-time-to-draw-up-but-can-think-about-how-many-have-been/ "旅行日记0206：非洲大陆前夜•不要为了未来的美好，牺牲当下的美好"
+ [24]: http://www.capechina.org/2011/10/travel-log-0211-across-the-equator-of-the-day-you-look-at-the-light-beam/ "旅行日志0211：穿越赤道之日，你瞧那束光芒"
+ [25]: http://www.capechina.org/2011/10/travel-diary-0212-the-best-standard-is-the-measure-of-travel-friends-rather-than-the-mileage/ "旅行日记0212：衡量旅行的最好标准在于朋友，而不在于里程"
  [26]: http://www.capechina.org/2011/10/travel-diary-0213-today-i-stole-a-lazy/ "旅行日记0213 & 旅行日志0214：船上美女太多了，挂了挂了论文写不完了的情人节"
- [27]: http://www.hicape.com/2011/10/walden-drifting-at-sea/ "海上漂流散记"
- [28]: http://www.hicape.com/2011/10/travel-log-0301-captains-dinner-was-finally-able-to-fill-the-gap-in-a-shake-of-red-wine/ "旅行日志0301：船长的晚宴上终于能行云流水地晃红酒了"
- [29]: http://www.hicape.com/2011/11/lv-xing-ri-zhi-0402-jin-tian-you-shi-hao-ri-zi-2/ "旅行日志0402：今天又是好日子"
- [30]: http://www.hicape.com/2011/11/li-bie-de-dao-shu-72-xiao-shi/ "离别的倒数72小时"
- [31]: http://www.hicape.com/2011/11/gei-ba-ba-di-qing-shu/ "给爸爸的情书"
- [32]: http://www.hicape.com/2011/11/zuo-yi-ming-jian-fu-shi-ming-di-li-xiang-zhu-yi-zhe-ling-hun-di-zai-fa-xian/ "做一名肩负使命的理想主义者：灵魂的再发现"
- [33]: http://www.hicape.com/2011/11/jin-yi-ci-ji-nian-shen-qing-sas-jiang-xue-jin-di-ri-ri-ye-ye/ "谨以此纪念申请SAS奖学金的日日夜夜"
- [34]: http://www.hicape.com/2011/11/yao-duo-you-xiu-ni-cai-zu-gou/ "要多优秀，你才足够？"
- [35]: http://www.hicape.com/2011/11/zhe-ge-shi-jie-wo-huan-you-jia-di-gan-jue/ "这个世界我还有家的感觉"
- [36]: http://www.hicape.com/2011/11/qi-pao-di-hua-yang-nian-hua/ "旗袍的花样年华"
- [37]: http://www.hicape.com/2011/11/gei-wo-yi-shou-ge-di-shi-jian-gei-wo-yi-ge-lin-bie-di-yong-bao/ "给我一首歌的时间，给我一个临别的拥抱"
+ [27]: http://www.capechina.org/2011/10/walden-drifting-at-sea/ "海上漂流散记"
+ [28]: http://www.capechina.org/2011/10/travel-log-0301-captains-dinner-was-finally-able-to-fill-the-gap-in-a-shake-of-red-wine/ "旅行日志0301：船长的晚宴上终于能行云流水地晃红酒了"
+ [29]: http://www.capechina.org/2011/11/lv-xing-ri-zhi-0402-jin-tian-you-shi-hao-ri-zi-2/ "旅行日志0402：今天又是好日子"
+ [30]: http://www.capechina.org/2011/11/li-bie-de-dao-shu-72-xiao-shi/ "离别的倒数72小时"
+ [31]: http://www.capechina.org/2011/11/gei-ba-ba-di-qing-shu/ "给爸爸的情书"
+ [32]: http://www.capechina.org/2011/11/zuo-yi-ming-jian-fu-shi-ming-di-li-xiang-zhu-yi-zhe-ling-hun-di-zai-fa-xian/ "做一名肩负使命的理想主义者：灵魂的再发现"
+ [33]: http://www.capechina.org/2011/11/jin-yi-ci-ji-nian-shen-qing-sas-jiang-xue-jin-di-ri-ri-ye-ye/ "谨以此纪念申请SAS奖学金的日日夜夜"
+ [34]: http://www.capechina.org/2011/11/yao-duo-you-xiu-ni-cai-zu-gou/ "要多优秀，你才足够？"
+ [35]: http://www.capechina.org/2011/11/zhe-ge-shi-jie-wo-huan-you-jia-di-gan-jue/ "这个世界我还有家的感觉"
+ [36]: http://www.capechina.org/2011/11/qi-pao-di-hua-yang-nian-hua/ "旗袍的花样年华"
+ [37]: http://www.capechina.org/2011/11/gei-wo-yi-shou-ge-di-shi-jian-gei-wo-yi-ge-lin-bie-di-yong-bao/ "给我一首歌的时间，给我一个临别的拥抱"
 
